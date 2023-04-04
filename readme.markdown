@@ -81,7 +81,7 @@ The lists were made uniquely decodable using a process based on [the Sardinas–
 
 ## Word sources and licensing
 
-The words contained in these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
+The words contained in these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and Wikipedia, via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
 
 This project has no association with either Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
 
