@@ -60,24 +60,9 @@ The difference between these two lists are which **keyboard layout** they are op
 
 For more information, see [this GitHub repo](https://github.com/sts10/remote-words) and/or [this blog post](https://sts10.github.io/2022/10/24/a-good-netflix-password.html).
 
-## Using these word lists with KeePassXC 
+## FAQ
 
-Some password managers allow users to use any given wordlist file to generate passphrases. [KeePassXC](https://keepassxc.org) is one of these password managers.
-
-To have KeePassXC use one of these wordlists, click on KeePassXC's dice icon to open the password generator, then click over to the "Passphrase" tab, then click to + button to choose a word list file. 
-
-![Screenshot showing how to change the word list that KeePassXC uses](img/keepassxc-use.png)
-
-## How we created these wordlists
-
-The words that make up these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
-
-The lists were made uniquely decodable using a process based on [the Sardinas–Patterson algorithm](https://en.wikipedia.org/wiki/Sardinas%E2%80%93Patterson_algorithm) that I call [Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). 
-
-## Tools I used to generate these word lists
-
-- [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists. 
-- [Common Word List Maker](https://github.com/sts10/common_word_list_maker): Scrapes Google Books Ngram data to create a long word list of commonly used words
+Check [our FAQ](faq.markdown) for answers to frequently asked questions.
 
 ## Word sources and licensing
 
