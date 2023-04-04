@@ -83,7 +83,7 @@ The lists were made uniquely decodable using a process based on [the Sardinas–
 
 The words contained in these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) and Wikipedia, via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/).
 
-This project has no association with either Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
+This project has no association with either Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, nor Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
 
 Given that [Wikipedia text is licensed as Creative Commons Attribution-ShareAlike 3.0 Unported License ("CC BY-SA")](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#7._Licensing_of_Content), I'm also using that license for this project.
 
