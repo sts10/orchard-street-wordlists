@@ -56,7 +56,9 @@ surgery tributary entering industry sufficient contents
 
 [Orchard Street Alpha](lists/orchard-street-alpha.txt) and [Orchard Street QWERTY](lists/orchard-street-qwerty.txt) lists both have 1,296 words and are optimized for inputting resulting passphrases into devices like smart TVs. Each word gives a passphrase an additional 10.34 bits of entropy. 
 
-Use the Alpha list if your devices keyboard is laid out alphabetically; use the QWERTY list if it is in the QWERTY layout.
+The difference between these two lists are which **keyboard layout** they are optimized for. Use the Alpha list if your device's keyboard is laid out alphabetically; use the QWERTY list if it is closer to [the QWERTY layout](https://en.wikipedia.org/wiki/QWERTY). 
+
+For more information, see [this GitHub repo](https://github.com/sts10/remote-words) and/or [this blog post](https://sts10.github.io/2022/10/24/a-good-netflix-password.html).
 
 ## Using these word lists with KeePassXC 
 
