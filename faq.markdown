@@ -12,6 +12,15 @@ To have KeePassXC use one of these wordlists, click on KeePassXC's dice icon to 
 
 I'd point you to [the EFF's guide on how to do this](https://www.eff.org/dice). Note that you will have to use either the Orchard Street Medium List or one of the Short Lists.
 
+## Do you recommend a CLI tool for generating passphrases?
+
+You could probably do worse than [Micah Lee's passphraseme tool](https://github.com/micahflee/passphraseme). Use the `-d` / `--dictionary` option to use an Orchard Street Wordlist file.
+
+## How _many_ words should I use in a passphrase?
+
+That depends on your threat model, so I can't give a general answer. But if I were forced to give a general rule of thumb, I'd say using 6 words from the long or medium lists (e.g. "fig phases telephone cowboys warning lit") and 7 words from a short list (e.g. "robe towed wooded cue hasty cups 
+each") is a safe bet.
+
 ## I'm creating a passphrase I know I'll frequently be entering into a smart TV or video game console. Which list should I use?
 
 Entering passwords on a smart TV remote or video game controller is a pain. To make this easier, the Orchard Street Short Lists are optimized to minimize the number of "clicks" you must execute to enter a passphrase. 
