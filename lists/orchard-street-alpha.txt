@@ -1044,7 +1044,6 @@ some
 song
 songs
 sonic
-sonny
 sons
 soon
 sore
@@ -1123,6 +1122,7 @@ tag
 tags
 tail
 take
+talk
 tall
 tan
 tap
