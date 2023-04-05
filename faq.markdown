@@ -1,6 +1,6 @@
 # FAQ 
 
-## Can I have my password manager use a Orchard Street Wordlist?
+## Can I have my password manager use an Orchard Street Wordlist?
 
 Some password managers allow users to use any given wordlist file to generate passphrases. [KeePassXC](https://keepassxc.org) is one such password manager.
 
@@ -52,6 +52,10 @@ You can read [this blog post for more information](https://sts10.github.io/2022/
 ## I'm creating passphrase-generation software. Can I use one or more of the Orchard Street Wordlists in my code?
 
 Sure! Just be sure to follow the licensing (see Readme).
+
+## Do I need to use separating punctuation between words in passphrases from Orchard Street Wordlists?
+
+No. All Orchard Street Wordlists are uniquely decodable, which means words from any one of them can be safely combined in a passphrase _without_ punctuation between the words, e.g. "thrillerconcernclearedevidencestretchapple". Though there's nothing wrong with putting a space, hyphen, underscore, etc. between the words if you prefer.
 
 ## How were the Orchard Street Wordlists created?
 
