@@ -21,11 +21,11 @@ Mean edit distance        : 7.913
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-selectors lifelong ascended commerce reactors sobbing 
-exempt acknowledgment worthless esteem compliments hepatitis 
-fortress infertility quota attends correlation rainforest 
-precipitation assemblages butcher nobles backed unexpected 
-canoeing clandestine guarding chewed calculus cosmological 
+selectors lifelong ascended commerce reactors sobbing
+exempt acknowledgment worthless esteem compliments hepatitis
+fortress infertility quota attends correlation rainforest
+precipitation assemblages butcher nobles backed unexpected
+canoeing clandestine guarding chewed calculus cosmological
 ```
 
 ## Orchard Street Medium List
@@ -45,18 +45,18 @@ Mean edit distance        : 6.955
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-pig broke realized kicked fighter experiment 
-episcopal walking gives threaten dividend reserves 
-residual paramount networking indicating curve activities 
-afghan commenting nucleus regulate hurricane intimate 
-surgery tributary entering industry sufficient contents 
+pig broke realized kicked fighter experiment
+episcopal walking gives threaten dividend reserves
+residual paramount networking indicating curve activities
+afghan commenting nucleus regulate hurricane intimate
+surgery tributary entering industry sufficient contents
 ```
 
 ## Orchard Street Short Lists
 
-[Orchard Street Alpha](lists/orchard-street-alpha.txt) and [Orchard Street QWERTY](lists/orchard-street-qwerty.txt) lists both have 1,296 words and are optimized for inputting resulting passphrases into devices like smart TVs. Each word gives a passphrase an additional 10.34 bits of entropy. 
+[Orchard Street Alpha](lists/orchard-street-alpha.txt) and [Orchard Street QWERTY](lists/orchard-street-qwerty.txt) lists both have 1,296 words and are optimized for inputting resulting passphrases into devices like smart TVs. Each word gives a passphrase an additional 10.34 bits of entropy.
 
-The difference between these two lists are which **keyboard layout** they are optimized for. Use the Alpha list if your device's keyboard is laid out alphabetically; use the QWERTY list if it is closer to [the QWERTY layout](https://en.wikipedia.org/wiki/QWERTY). 
+The difference between these two lists are which **keyboard layout** they are optimized for. Use the Alpha list if your device's keyboard is laid out alphabetically; use the QWERTY list if it is closer to [the QWERTY layout](https://en.wikipedia.org/wiki/QWERTY).
 
 For more information, see [this GitHub repo](https://github.com/sts10/remote-words) and/or [this blog post](https://sts10.github.io/2022/10/24/a-good-netflix-password.html).
 
