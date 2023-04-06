@@ -19,15 +19,15 @@ Uniquely decodable?       : true
 Entropy per word          : 14.101 bits
 Efficiency per character  : 1.767 bits
 Assumed entropy per char  : 4.700 bits
-Mean edit distance        : 7.913
+Mean edit distance        : 7.914
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
+dazzling impatiently configurations abandoning reverses lightweight
+sworn sprawling supplied christened federations perceived
+thematic elapsed patterned connections striking universe
+earnings explode confidently floating minimalist mural
 selectors lifelong ascended commerce reactors sobbing
-exempt acknowledgment worthless esteem compliments hepatitis
-fortress infertility quota attends correlation rainforest
-precipitation assemblages butcher nobles backed unexpected
-canoeing clandestine guarding chewed calculus cosmological
 ```
 
 ## Orchard Street Medium List
@@ -47,11 +47,11 @@ Mean edit distance        : 6.955
 
 Pseudorandomly generated sample passphrases
 -------------------------------------------
-pig broke realized kicked fighter experiment
-episcopal walking gives threaten dividend reserves
-residual paramount networking indicating curve activities
-afghan commenting nucleus regulate hurricane intimate
-surgery tributary entering industry sufficient contents
+revelation amateur deserves diplomat anterior seminary
+lung pencil shelter seemingly delivering imagine
+confront diffuse dropped criticized religious regularly
+beaver wales biggest domain volcano welsh
+dwelling increases saga stating grouped unchanged
 ```
 
 ## Orchard Street Short Lists

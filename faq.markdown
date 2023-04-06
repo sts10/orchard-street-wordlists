@@ -18,12 +18,17 @@ You could probably do worse than [Micah Lee's passphraseme tool](https://github.
 
 ## How _many_ words should I use in a passphrase?
 
-That depends on your threat model, so I can't give a general answer. But if I were forced to give a general rule of thumb, I'd say using 6 words from the long or medium lists (e.g. "fig phases telephone cowboys warning lit") and 7 words from a short list (e.g. "robe towed wooded cue hasty cups 
-each") is a safe bet.
+That depends on your threat model, so I can't give a general answer. But if I were forced to give a general rule of thumb, I'd say using 6 words from the long or medium lists (e.g. "fig phases telephone cowboys warning lit") and 7 words from a short list (e.g. "robe towed wooded cue hasty cups each") is a safe bet.
+
+## What's the difference between your Medium list and the EFF "long list"?
+
+They're pretty similar! Both the [EFF's long list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and the Orchard Street Medium List contain exactly 7,776 words. This is so that each word can correspond to the roll of 5 6-sided dice. Both lists are also _uniquely decodable_, which is good for use with passphrase generators. One difference is that the EFF list is uniquely decodable because it has no "prefix words". The Orchard Street Medium List was made uniquely decodable through [a novel process we invented called Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). I'll also note that EFF list's mean word length is every so slightly shorter (by 0.07 characters).
+
+The EFF list is definitely more well-known and more widely used choice, so it's 100% the less risky choice. But if you're here reading this FAQ, maybe you want to be on the cutting edge...
 
 ## I'm creating a passphrase I know I'll frequently be entering into a smart TV or video game console. Which list should I use?
 
-Entering passwords on a smart TV remote or video game controller is a pain. To make this easier, the Orchard Street Short Lists are optimized to minimize the number of "clicks" you must execute to enter a passphrase. 
+Entering secure passwords on a smart TV remote or video game controller is a pain. To make this easier, the Orchard Street Short Lists are optimized to minimize the number of "clicks" you must execute to enter a passphrase. 
 
 This number of clicks depends on the keyboard layout. If the service's password keyboard looks like a traditional QWERTY layout:
 
