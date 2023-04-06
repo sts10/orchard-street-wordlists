@@ -4,7 +4,7 @@ Fresh wordlists for all your passphrase-creation needs! Use these wordlists to c
 
 All of the wordlists included in this repository are uniquely decodable, meaning words from any one of these lists can be safely combined without word separators. For example: "sharkhealsetupthrustphasespy".
 
-**Note** that I am still removing and replacing a few words here and there, and thus none of these lists should be considered as "finalized" as long as this paragraph is present. Obviously you're free to download a (static) copy at this time if you require a static list.
+**Note** that I am still removing and replacing a few words here and there, and thus none of these lists should be considered as "finalized" as long as this paragraph is present. Obviously you're free to download a (static) copy or fork this repo at any time if you require a static, unchanging list.
 
 ## Orchard Street Long List
 
