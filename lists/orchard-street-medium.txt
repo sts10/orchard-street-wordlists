@@ -2453,7 +2453,6 @@ ensemble
 ensuing
 ensure
 ensuring
-entails
 entering
 enterprise
 enthusiasm
@@ -3081,6 +3080,7 @@ gateway
 gather
 gathered
 gathering
+gauge
 gave
 gay
 gaze
@@ -4526,7 +4526,6 @@ musician
 musicians
 mutation
 mutations
-muttered
 mutual
 mutually
 myself
@@ -5195,6 +5194,7 @@ potatoes
 potent
 potential
 potentials
+potter
 pottery
 pour
 poured

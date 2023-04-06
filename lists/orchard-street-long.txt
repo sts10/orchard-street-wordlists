@@ -1718,7 +1718,6 @@ bitterly
 bitterness
 bizarre
 black
-blackberry
 blackboard
 blackened
 blackish
@@ -7036,6 +7035,7 @@ gathered
 gathering
 gatherings
 gathers
+gauge
 gaunt
 gauze
 gave
@@ -10891,7 +10891,6 @@ osmotic
 ostensibly
 osteoporosis
 otherwise
-otter
 ottoman
 ottomans
 ounces
@@ -11900,6 +11899,7 @@ potential
 potentialities
 potentially
 potentials
+potter
 pottery
 pouch
 poultry
@@ -12272,6 +12272,7 @@ proletarian
 proletariat
 proliferation
 prolific
+prologue
 prolong
 prolonged
 prom
@@ -12963,7 +12964,6 @@ refuses
 refusing
 refutation
 refute
-refuted
 regain
 regained
 regaining
