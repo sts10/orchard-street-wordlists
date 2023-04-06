@@ -337,8 +337,6 @@ adviser
 advisers
 advises
 advising
-advisor
-advisors
 advisory
 advocacy
 advocate
@@ -635,7 +633,6 @@ anaesthesia
 analog
 analogies
 analogous
-analogues
 analogy
 analysis
 analyst
@@ -798,6 +795,7 @@ apex
 aphasia
 apocalypse
 apocalyptic
+apologetic
 apologies
 apologize
 apologized
@@ -4800,6 +4798,7 @@ disappears
 disappointed
 disappointing
 disappointment
+disappointments
 disapproval
 disapproved
 disarmament
@@ -12390,7 +12389,6 @@ protestants
 protested
 protesters
 protesting
-protestors
 protests
 protocol
 protocols
@@ -16971,6 +16969,7 @@ vibrating
 vibration
 vibrations
 vicar
+vicarious
 viceroy
 vicinity
 vicious
@@ -17180,6 +17179,7 @@ wartime
 wary
 wash
 washed
+washes
 washing
 wasp
 wasps

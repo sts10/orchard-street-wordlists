@@ -137,7 +137,6 @@ advice
 advise
 advised
 adviser
-advisor
 advisory
 advocacy
 advocate
@@ -7525,6 +7524,7 @@ volatile
 volcanic
 volcano
 volleyball
+vols
 voltage
 volume
 volumes

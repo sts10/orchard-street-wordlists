@@ -4,6 +4,8 @@ Fresh wordlists for all your passphrase-creation needs! Use these wordlists to c
 
 All of the wordlists included in this repository are uniquely decodable, meaning words from any one of these lists can be safely combined without word separators. For example: "sharkhealsetupthrustphasespy".
 
+**Note** that I am still removing and replacing a few words here and there, and thus none of these lists should be considered as "finalized" as long as this paragraph is present. Obviously you're free to download a (static) copy at this time if you require a static list.
+
 ## Orchard Street Long List
 
 The [Orchard Street Long List](lists/orchard-street-long.txt) is a 17,576-word list. It provides a robust 14.1 bits of entropy per word, meaning a 7-word passphrase gives almost 99 bits of entropy.
