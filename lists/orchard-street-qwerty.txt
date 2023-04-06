@@ -434,7 +434,6 @@ fuse
 fuss
 gang
 gas
-gases
 gate
 gave
 gay
@@ -511,6 +510,7 @@ hay
 head
 heads
 hear
+heart
 heat
 hedge
 heed
@@ -594,6 +594,7 @@ junk
 jury
 just
 keen
+keep
 key
 kid
 kids
@@ -778,7 +779,6 @@ opted
 opus
 order
 other
-otter
 ought
 ounce
 outer
@@ -854,6 +854,7 @@ ports
 pose
 pot
 pots
+potter
 pound
 pour
 poured
@@ -946,7 +947,6 @@ ruin
 run
 runs
 rye
-sabre
 sack
 sacred
 sad
