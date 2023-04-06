@@ -143,7 +143,6 @@ advocate
 advocated
 advocates
 aerial
-aesthetic
 affair
 affairs
 affect
@@ -921,7 +920,6 @@ burnt
 burst
 bury
 bus
-buses
 bush
 business
 businesses
@@ -965,7 +963,6 @@ campuses
 canal
 cancel
 canceled
-cancelled
 cancer
 candidacy
 candidate
@@ -1525,6 +1522,7 @@ contents
 contest
 contestant
 contested
+contests
 context
 contexts
 continent
@@ -1610,7 +1608,6 @@ cottage
 cotton
 couch
 council
-councillor
 councils
 counsel
 counseling
@@ -2456,6 +2453,7 @@ ensemble
 ensuing
 ensure
 ensuring
+entails
 entering
 enterprise
 enthusiasm
@@ -2533,6 +2531,7 @@ everywhere
 evidence
 evident
 evidently
+evoked
 evolve
 evolved
 evolving
@@ -3044,6 +3043,7 @@ funeral
 fungi
 funk
 funny
+furious
 furnace
 furnished
 furniture
@@ -3073,7 +3073,6 @@ garlic
 garnered
 garrison
 gas
-gases
 gasoline
 gastric
 gate
@@ -3082,7 +3081,6 @@ gateway
 gather
 gathered
 gathering
-gauge
 gave
 gay
 gaze
@@ -4528,6 +4526,7 @@ musician
 musicians
 mutation
 mutations
+muttered
 mutual
 mutually
 myself
@@ -4625,6 +4624,7 @@ noticed
 noting
 notion
 notorious
+noun
 novel
 novelist
 novels
@@ -6284,7 +6284,6 @@ shear
 sheep
 sheer
 sheets
-sheikh
 shelf
 shell
 shells
@@ -6649,6 +6648,7 @@ statutory
 stay
 stayed
 staying
+stays
 steadily
 steady
 steal
