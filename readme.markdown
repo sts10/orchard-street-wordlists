@@ -21,8 +21,8 @@ Efficiency per character  : 1.767 bits
 Assumed entropy per char  : 4.700 bits
 Mean edit distance        : 7.914
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 dazzling impatiently configurations abandoning reverses lightweight
 sworn sprawling supplied christened federations perceived
 thematic elapsed patterned connections striking universe
@@ -45,8 +45,8 @@ Efficiency per character  : 1.832 bits
 Assumed entropy per char  : 4.308 bits
 Mean edit distance        : 6.955
 
-Pseudorandomly generated sample passphrases
--------------------------------------------
+Word samples
+------------
 revelation amateur deserves diplomat anterior seminary
 lung pencil shelter seemingly delivering imagine
 confront diffuse dropped criticized religious regularly
