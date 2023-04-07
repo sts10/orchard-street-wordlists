@@ -10,7 +10,7 @@ To have KeePassXC use one of these wordlists, click on KeePassXC's dice icon to 
 
 ## How can I use dice to create a passphrase?
 
-I'd point you to [the EFF's guide on how to do this](https://www.eff.org/dice). Note that you will have to use either the Orchard Street Medium List or one of the Short Lists.
+I'd point you to [the EFF's guide on how to do this](https://www.eff.org/dice) and [this article by Micah Lee](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/). Note that you will have to use either the Orchard Street Medium List or one of the Short Lists.
 
 ## Do you recommend a CLI tool for generating passphrases?
 
