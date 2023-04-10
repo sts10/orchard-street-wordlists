@@ -241,7 +241,6 @@ adherents
 adhering
 adhesion
 adhesive
-adiabatic
 adjacent
 adjective
 adjectives
@@ -1718,6 +1717,7 @@ bitterly
 bitterness
 bizarre
 black
+blackberry
 blackboard
 blackened
 blackish
@@ -2331,7 +2331,6 @@ carbohydrates
 carbon
 carbonate
 carcinoma
-carcinomas
 cardboard
 cardiac
 cardinal
@@ -2419,7 +2418,6 @@ catch
 catcher
 catches
 catching
-catchment
 catchy
 catechism
 categorical
@@ -5291,7 +5289,6 @@ dwellers
 dwelling
 dwellings
 dwells
-dwelt
 dye
 dyed
 dyer
@@ -9959,7 +9956,6 @@ metaphorical
 metaphors
 metaphysical
 metaphysics
-metastases
 metastasis
 meteor
 meteorite
@@ -12416,6 +12412,7 @@ provincial
 provision
 provisional
 provisions
+proviso
 provocation
 provocative
 provoke
@@ -12964,6 +12961,7 @@ refuses
 refusing
 refutation
 refute
+refuted
 regain
 regained
 regaining
@@ -15254,6 +15252,7 @@ struggled
 struggles
 struggling
 strung
+struts
 stubborn
 stubbornly
 stucco
@@ -17270,6 +17269,7 @@ welded
 welding
 wellington
 welsh
+welt
 welterweight
 westbound
 westerly
