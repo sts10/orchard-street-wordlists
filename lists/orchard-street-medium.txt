@@ -501,6 +501,7 @@ attendant
 attended
 attending
 attention
+attested
 attitude
 attitudes
 attorney
@@ -672,6 +673,7 @@ beds
 bee
 beef
 beer
+bees
 beetle
 beetles
 beg
@@ -990,7 +992,6 @@ capped
 caps
 captain
 captained
-captive
 capture
 captured
 capturing
@@ -1068,7 +1069,6 @@ cement
 cemetery
 censorship
 census
-centennial
 center
 centered
 centers
@@ -1182,7 +1182,6 @@ circuit
 circuits
 circular
 circus
-citations
 cities
 citizen
 citizens
@@ -1269,7 +1268,6 @@ coated
 coating
 code
 codes
-codex
 coding
 coffee
 cognition
@@ -1303,6 +1301,7 @@ colon
 colonel
 colonial
 colonies
+colonists
 colony
 color
 colors
@@ -1713,6 +1712,7 @@ cubic
 cubs
 cues
 cuisine
+culminated
 cult
 cultivated
 cultural
@@ -2267,6 +2267,7 @@ duties
 duty
 dwarf
 dwelling
+dwellings
 dye
 dying
 dynamic
@@ -2453,6 +2454,7 @@ ensemble
 ensuing
 ensure
 ensuring
+entails
 entering
 enterprise
 enthusiasm
@@ -3424,7 +3426,6 @@ homeland
 homeless
 homer
 homes
-homestead
 hometown
 honest
 honesty
@@ -4377,7 +4378,6 @@ minerals
 miners
 mines
 mini
-miniature
 minimal
 minimize
 minimum
@@ -4575,7 +4575,6 @@ nephew
 nerve
 nervous
 network
-networking
 networks
 neutral
 never
@@ -4623,7 +4622,6 @@ noticed
 noting
 notion
 notorious
-noun
 novel
 novelist
 novels
@@ -4634,7 +4632,6 @@ number
 numbered
 numbering
 numbers
-numerical
 numerous
 nurse
 nurses
@@ -4805,6 +4802,7 @@ overlooked
 overnight
 oversaw
 overseas
+oversight
 overt
 overtime
 overview
@@ -5310,6 +5308,7 @@ priory
 prison
 prisoner
 prisoners
+prisons
 privacy
 private
 privately
@@ -5529,7 +5528,6 @@ radius
 raiders
 raids
 railroad
-railroads
 railway
 railways
 rainbow
@@ -5946,6 +5944,7 @@ rituals
 rivalry
 rivals
 riverside
+roads
 rob
 robbery
 robin
@@ -7715,6 +7714,7 @@ worked
 worker
 workers
 workforce
+working
 workplace
 worksheet
 workshop

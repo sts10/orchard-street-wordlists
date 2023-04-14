@@ -173,7 +173,6 @@ acknowledgments
 acne
 acorn
 acoustic
-acoustics
 acquaintance
 acquaintances
 acquainted
@@ -1019,7 +1018,6 @@ ascribe
 ascribed
 ashamed
 ashore
-ashram
 asleep
 aspect
 aspects
@@ -1321,6 +1319,7 @@ backgrounds
 backing
 backlash
 backstage
+backstory
 backstroke
 backup
 backward
@@ -1717,7 +1716,6 @@ bitterly
 bitterness
 bizarre
 black
-blackberry
 blackboard
 blackened
 blackish
@@ -2490,6 +2488,7 @@ censored
 censorship
 censure
 census
+censuses
 centenary
 centennial
 center
@@ -2517,7 +2516,6 @@ certainly
 certificate
 certificates
 certification
-certifications
 certified
 certify
 cessation
@@ -2851,6 +2849,7 @@ climatic
 climax
 climb
 climbed
+climber
 climbers
 climbing
 climbs
@@ -4081,7 +4080,6 @@ customs
 cutoff
 cuts
 cutter
-cutters
 cutting
 cuttings
 cyanide
@@ -4742,7 +4740,6 @@ dioxide
 dip
 diploma
 diplomacy
-diplomas
 diplomat
 diplomatic
 diplomats
@@ -4938,6 +4935,7 @@ disregarded
 disrepair
 disrupt
 disrupted
+disrupting
 disruption
 disruptions
 disruptive
@@ -4965,6 +4963,7 @@ dissolves
 dissolving
 dissonance
 distance
+distanced
 distances
 distancing
 distant
@@ -6171,6 +6170,7 @@ extravagant
 extreme
 extremely
 extremes
+extremism
 extremist
 extremities
 extremity
@@ -6404,6 +6404,7 @@ fiberglass
 fibers
 fibrous
 fictional
+fictionalized
 fictions
 fictitious
 fiddle
@@ -7607,6 +7608,7 @@ hearings
 hears
 hearsay
 heartbeat
+heartbreak
 hearth
 heartily
 heartland
@@ -9070,7 +9072,6 @@ knew
 knife
 knight
 knighted
-knighthood
 knights
 knit
 knitting
@@ -9321,6 +9322,7 @@ licenses
 licensing
 lichen
 lieutenant
+lieutenants
 lifeboat
 lifeless
 lifelong
@@ -9472,6 +9474,7 @@ loosening
 loot
 looted
 looting
+lopes
 lordship
 losers
 losses
@@ -9604,7 +9607,6 @@ malignant
 malls
 malnutrition
 malpractice
-malt
 mama
 mamma
 mammal
@@ -10038,7 +10040,6 @@ miner
 mineral
 minerals
 miners
-minesweeper
 mingled
 mini
 miniature
@@ -12412,7 +12413,6 @@ provincial
 provision
 provisional
 provisions
-proviso
 provocation
 provocative
 provoke
@@ -12851,7 +12851,6 @@ recounts
 recourse
 recover
 recovered
-recoveries
 recovering
 recovers
 recovery
@@ -12912,6 +12911,7 @@ referees
 referenced
 referencing
 referendum
+referendums
 referent
 referral
 referrals
@@ -12961,7 +12961,6 @@ refuses
 refusing
 refutation
 refute
-refuted
 regain
 regained
 regaining
@@ -13301,6 +13300,7 @@ reservoir
 reservoirs
 reset
 resettled
+reshuffle
 reside
 residence
 residences
@@ -13678,6 +13678,7 @@ rye
 sabotage
 sack
 sacked
+sacking
 sacks
 sacrament
 sacramental
@@ -13946,6 +13947,7 @@ secluded
 seclusion
 second
 secondary
+seconded
 secondly
 seconds
 secrecy
@@ -15150,7 +15152,6 @@ stories
 storm
 stormed
 stormy
-story
 storyteller
 stout
 stove
@@ -15252,7 +15253,6 @@ struggled
 struggles
 struggling
 strung
-struts
 stubborn
 stubbornly
 stucco
@@ -15596,7 +15596,6 @@ swans
 swap
 swapped
 swarm
-swat
 sway
 swayed
 swaying
@@ -15839,7 +15838,6 @@ temporarily
 temps
 temptation
 temptations
-tenants
 tendencies
 tendency
 tenderly
@@ -16774,6 +16772,7 @@ uphold
 upholding
 upkeep
 upland
+uplands
 uplift
 uploaded
 uppermost
@@ -17272,7 +17271,6 @@ welsh
 welt
 welterweight
 westbound
-westerly
 westerners
 westernmost
 westward
@@ -17280,6 +17278,7 @@ westwards
 wet
 wetland
 wetlands
+wettest
 wetting
 whale
 whalers
@@ -17445,6 +17444,7 @@ wooded
 wooden
 woodland
 woodlands
+woodpecker
 woods
 wool
 wording
