@@ -23,11 +23,11 @@ Mean edit distance        : 7.914
 
 Word samples
 ------------
-dazzling impatiently configurations abandoning reverses lightweight
-sworn sprawling supplied christened federations perceived
-thematic elapsed patterned connections striking universe
-earnings explode confidently floating minimalist mural
-selectors lifelong ascended commerce reactors sobbing
+maybe establishes thickened distraught suddenly extracurricular
+purposeful satisfied perceiving beasts paused frighten
+rentals dosage bestowed materials dismantled grossed
+retained parade duet persuaded unconventional saving
+poisonous champions dragged monkey harvesting widened
 ```
 
 ## Orchard Street Medium List
@@ -36,22 +36,22 @@ The [Orchard Street Medium List](lists/orchard-street-medium.txt) is our version
 
 ```text
 List length               : 7776 words
-Mean word length          : 7.06 characters
+Mean word length          : 7.05 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
 Efficiency per character  : 1.832 bits
 Assumed entropy per char  : 4.308 bits
-Mean edit distance        : 6.955
+Mean edit distance        : 6.953
 
 Word samples
 ------------
-revelation amateur deserves diplomat anterior seminary
-lung pencil shelter seemingly delivering imagine
-confront diffuse dropped criticized religious regularly
-beaver wales biggest domain volcano welsh
-dwelling increases saga stating grouped unchanged
+several guilt coach dangerous weaker variation
+monitoring nominees unnamed embassy infectious reduce
+musicians incorrect consort unusually uniform director
+people geography punish evaluated decree coined
+obstacle compelled checked secret commander convince
 ```
 
 ## Orchard Street Short Lists
