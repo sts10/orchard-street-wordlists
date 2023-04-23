@@ -2,13 +2,13 @@
 
 Fresh wordlists for all your passphrase-creation needs! Use these wordlists to create strong, secure passphrases, either [with dice](https://www.eff.org/dice) or a password manager/generator.
 
-All of the wordlists included in this repository are uniquely decodable, meaning words from any one of these lists can be safely combined without word separators. For example: "sharkhealsetupthrustphasespy".
+All of the wordlists included in this repository are **uniquely decodable**, meaning words from any one of these lists can be safely combined without word separators. For example: "sharkhealsetupthrustphasespy".
 
-**Note** that I am still removing and replacing a few words here and there, and thus none of these lists should be considered as "finalized" as long as this paragraph is present. Obviously you're free to download a (static) copy or fork this repo at any time if you require a static, unchanging list.
+**Note** that I am still removing and replacing a few words here and there, and thus none of these lists should be considered as "finalized" as long as this paragraph is present. Obviously you're free to download a (static) copy, download the latest release, or fork this repository at any time if you require a static, unchanging list.
 
 ## Orchard Street Long List
 
-The [Orchard Street Long List](lists/orchard-street-long.txt) is a 17,576-word list. It provides a robust 14.1 bits of entropy per word, meaning a 7-word passphrase gives almost 99 bits of entropy.
+The [Orchard Street Long List](lists/orchard-street-long.txt) is a 17,576-word list. It provides a hefty 14.1 bits of entropy per word, meaning a 7-word passphrase gives almost 99 bits of entropy.
 
 ```text
 List length               : 17576 words
