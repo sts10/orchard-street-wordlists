@@ -32,7 +32,7 @@ poisonous champions dragged monkey harvesting widened
 
 ## Orchard Street Medium List
 
-The [Orchard Street Medium List](lists/orchard-street-medium.txt) is our version of the classic Diceware list. 7,776 words gives a traditional 12.925 bits of entropy per word, same as the EFF long list. Also available in [a Diceware version](lists/orchard-street-medium-dice.txt) (when using dice to create a passphrase, we recommend you follow [EFF's instructions for creating a passphrase](https://www.eff.org/dice)).
+The [Orchard Street Medium List](lists/orchard-street-medium.txt) is our version of the classic Diceware list. 7,776 words gives a traditional 12.925 bits of entropy per word, same as [the EFF long word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases). Also available in [a Diceware version](lists/orchard-street-medium-dice.txt) (when using dice to create a passphrase, we recommend you follow [EFF's instructions for creating a passphrase](https://www.eff.org/dice)).
 
 ```text
 List length               : 7776 words
