@@ -15586,6 +15586,7 @@ sustains
 sustenance
 suture
 sutures
+swallow
 swallowed
 swallowing
 swam
@@ -16478,7 +16479,6 @@ twofold
 tycoon
 typeface
 typewriter
-typhoid
 typhoon
 typically
 tyranny

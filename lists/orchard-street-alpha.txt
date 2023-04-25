@@ -530,6 +530,7 @@ hit
 hits
 hogan
 hold
+hole
 home
 honor
 hood
@@ -1122,7 +1123,6 @@ tag
 tags
 tail
 take
-talk
 tall
 tan
 tap

@@ -510,7 +510,6 @@ hay
 head
 heads
 hear
-heart
 heat
 hedge
 heed
@@ -534,6 +533,7 @@ hit
 hits
 hitter
 hold
+hole
 holly
 holy
 hood
