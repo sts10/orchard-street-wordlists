@@ -23,11 +23,11 @@ Mean edit distance        : 7.914
 
 Word samples
 ------------
-maybe establishes thickened distraught suddenly extracurricular
-purposeful satisfied perceiving beasts paused frighten
-rentals dosage bestowed materials dismantled grossed
-retained parade duet persuaded unconventional saving
-poisonous champions dragged monkey harvesting widened
+depicted flavor puck unsure processing ardent
+zoologist league galleries invasive evolved genuinely
+tags coughing refund enlightened leukemia business
+scissors major hunters distinguishes gentle specimens
+biological timetable decimal badge eliminate visually
 ```
 
 ## Orchard Street Medium List
@@ -47,11 +47,11 @@ Mean edit distance        : 6.953
 
 Word samples
 ------------
-several guilt coach dangerous weaker variation
-monitoring nominees unnamed embassy infectious reduce
-musicians incorrect consort unusually uniform director
-people geography punish evaluated decree coined
-obstacle compelled checked secret commander convince
+endangered criticisms priory fashioned crescent decreasing
+structures video denied recovery argued reign
+warfare profound needs always screened replied
+declaring solidarity prose hesitated stressed rhetoric
+naked fiber mold rolls latest bent
 ```
 
 ## Orchard Street Short Lists
