@@ -100,7 +100,6 @@ addresses
 addressing
 adds
 adequately
-adherence
 adjacent
 adjoining
 adjust
@@ -575,6 +574,7 @@ badge
 badly
 badminton
 bag
+bagel
 bags
 baker
 baking
@@ -587,10 +587,12 @@ ballet
 balloon
 ballot
 ballots
+banana
 band
 bands
 bandwidth
 bang
+banjo
 bank
 banker
 banking
@@ -672,7 +674,6 @@ beds
 bee
 beef
 beer
-bees
 beetle
 beetles
 beg
@@ -766,6 +767,7 @@ blend
 blessed
 blessing
 blew
+blimp
 blind
 bloc
 block
@@ -893,6 +895,7 @@ brought
 brown
 browns
 browser
+brunch
 brush
 brutal
 bubble
@@ -1193,6 +1196,7 @@ civilized
 claim
 claiming
 claims
+clamp
 clan
 clarify
 clarity
@@ -1233,7 +1237,7 @@ climbed
 climbing
 clinic
 clinical
-clinically
+clip
 clock
 close
 closely
@@ -1519,7 +1523,6 @@ contents
 contest
 contestant
 contested
-contests
 context
 contexts
 continent
@@ -1710,7 +1713,6 @@ cubic
 cubs
 cues
 cuisine
-culminated
 cult
 cultivated
 cultural
@@ -2452,7 +2454,6 @@ ensemble
 ensuing
 ensure
 ensuring
-entails
 entering
 enterprise
 enthusiasm
@@ -2530,7 +2531,6 @@ everywhere
 evidence
 evident
 evidently
-evoked
 evolve
 evolved
 evolving
@@ -2812,7 +2812,6 @@ film
 filmed
 filming
 filmmaker
-filmmakers
 films
 filter
 filters
@@ -3043,7 +3042,6 @@ funeral
 fungi
 funk
 funny
-furious
 furnace
 furnished
 furniture
@@ -3228,7 +3226,6 @@ grin
 grinned
 grip
 gross
-grossed
 grounded
 grounds
 group
@@ -3425,7 +3422,6 @@ homeland
 homeless
 homer
 homes
-homestead
 hometown
 honest
 honesty
@@ -3882,6 +3878,7 @@ knockout
 knowing
 knowledge
 knows
+koala
 lab
 label
 labels
@@ -3899,7 +3896,6 @@ laid
 lake
 lakes
 lamb
-lamp
 lamps
 landed
 landing
@@ -3917,6 +3913,7 @@ larger
 largest
 larvae
 laser
+lasso
 lasted
 lasting
 lately
@@ -4160,6 +4157,7 @@ maize
 majesty
 major
 majority
+makers
 makes
 makeup
 making
@@ -4179,6 +4177,7 @@ managing
 mandate
 mandatory
 manga
+mango
 manifest
 manifested
 mankind
@@ -4500,6 +4499,7 @@ movie
 movies
 much
 mud
+mug
 multi
 multiple
 multiplied
@@ -4522,7 +4522,6 @@ musician
 musicians
 mutation
 mutations
-muttered
 mutual
 mutually
 myself
@@ -4568,6 +4567,7 @@ negotiate
 negotiated
 neighbors
 neither
+neon
 nephew
 nerve
 nervous
@@ -4619,7 +4619,6 @@ noticed
 noting
 notion
 notorious
-noun
 novel
 novelist
 novels
@@ -4787,7 +4786,6 @@ outputs
 outreach
 outset
 outside
-outsiders
 outskirts
 outward
 oval
@@ -4861,7 +4859,6 @@ parameter
 parameters
 paramount
 parental
-parenting
 parents
 parish
 parishes
@@ -5041,7 +5038,6 @@ pig
 pigs
 pile
 pilgrimage
-pillars
 pilot
 pilots
 pink
@@ -5306,7 +5302,6 @@ priory
 prison
 prisoner
 prisoners
-prisons
 privacy
 private
 privately
@@ -5531,6 +5526,7 @@ railways
 rainbow
 rainfall
 raises
+ramp
 rams
 ran
 random
@@ -5727,6 +5723,7 @@ relegation
 relevance
 reliable
 reliance
+relic
 relied
 relief
 relies
@@ -6072,6 +6069,7 @@ scanning
 scarce
 scarcely
 scared
+scary
 scattered
 scattering
 scenario
@@ -6255,6 +6253,7 @@ sex
 sexes
 sexual
 sexuality
+shack
 shade
 shadow
 shadows
@@ -6320,6 +6319,7 @@ shot
 shots
 shoulder
 shoulders
+shout
 shouted
 shouting
 show
@@ -6331,6 +6331,7 @@ shown
 shows
 shrine
 shrub
+shrug
 shrugged
 shut
 shuttle
@@ -6411,6 +6412,7 @@ sky
 slam
 slavery
 slaves
+sled
 sleeping
 slender
 slept
@@ -6445,6 +6447,7 @@ smooth
 snail
 snails
 snake
+snap
 snapped
 snow
 soap
@@ -6560,6 +6563,7 @@ sphere
 spheres
 spider
 spike
+spill
 spin
 spinal
 spine
@@ -6625,6 +6629,7 @@ starter
 starting
 startled
 starts
+stash
 stated
 statement
 statements
@@ -6645,11 +6650,9 @@ statutory
 stay
 stayed
 staying
-stays
 steadily
 steady
 steal
-stealing
 steals
 steam
 steel
@@ -6702,6 +6705,7 @@ strategic
 strategies
 strategy
 straw
+stray
 streak
 streaming
 streams
@@ -6834,7 +6838,6 @@ supplier
 suppliers
 supplies
 supply
-supplying
 support
 supported
 supporter
@@ -6949,7 +6952,6 @@ tank
 tanks
 tap
 tape
-tapes
 target
 targeted
 targeting
@@ -6988,7 +6990,6 @@ techniques
 technology
 teenage
 teenager
-teenagers
 teeth
 telegraph
 telephone
@@ -7217,7 +7218,6 @@ traumatic
 travel
 traveling
 travels
-tray
 treasure
 treasurer
 treasury
@@ -7280,6 +7280,7 @@ trying
 tube
 tubes
 tucker
+tulip
 tumor
 tumors
 tune
@@ -7541,6 +7542,7 @@ voyage
 vulnerable
 wade
 wage
+wager
 wages
 wagon
 waist
@@ -7622,9 +7624,7 @@ wellington
 wells
 welsh
 western
-westward
 wet
-wetlands
 whale
 whatever
 whatsoever
