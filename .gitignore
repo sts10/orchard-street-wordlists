@@ -1,4 +1,4 @@
 blended-source.txt
-*-source.txt
+words-to-blend-in.txt
 justfile
 .justfile
