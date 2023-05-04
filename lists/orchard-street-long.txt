@@ -1339,6 +1339,7 @@ badly
 badminton
 baffled
 bag
+bagel
 baggage
 bags
 bail
@@ -1754,6 +1755,7 @@ blessing
 blessings
 blew
 blight
+blimp
 blind
 blinded
 blinding
@@ -2070,6 +2072,7 @@ browsing
 bruins
 bruised
 bruises
+brunch
 brush
 brushed
 brushes
@@ -2139,7 +2142,6 @@ bunk
 bunker
 bunkers
 bunny
-buoyancy
 burden
 burdened
 burdens
@@ -4400,7 +4402,6 @@ denial
 denied
 denies
 denomination
-denominational
 denominations
 denominator
 denote
@@ -6740,7 +6741,6 @@ forgotten
 forks
 formaldehyde
 formalism
-formalities
 formality
 formalized
 format
@@ -9088,6 +9088,7 @@ knowingly
 knowledgeable
 knows
 knuckles
+koala
 label
 labeled
 labeling
@@ -9121,7 +9122,6 @@ lambda
 lambs
 lament
 lamented
-laminated
 lamps
 lancers
 lancet
@@ -9156,6 +9156,7 @@ larval
 larynx
 laser
 lasers
+lasso
 lastly
 lasts
 latch
@@ -9357,7 +9358,6 @@ limitations
 limiting
 limitless
 limits
-limp
 lineage
 lineages
 linearly
@@ -10116,7 +10116,6 @@ mixes
 mixing
 mixture
 mixtures
-moan
 moaned
 moat
 mob
@@ -13248,7 +13247,6 @@ reproductive
 reptiles
 republic
 republican
-republicanism
 republicans
 republics
 republished
@@ -15025,6 +15023,7 @@ starvation
 starve
 starved
 starving
+stash
 stat
 statehood
 stately
@@ -16424,6 +16423,7 @@ tucker
 tufts
 tug
 tugged
+tulip
 tumor
 tumors
 tuna
