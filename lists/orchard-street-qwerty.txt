@@ -30,7 +30,6 @@ areas
 army
 artery
 ashes
-assay
 assert
 asserted
 asserts
@@ -510,6 +509,7 @@ hay
 head
 heads
 hear
+heart
 heat
 hedge
 heed
