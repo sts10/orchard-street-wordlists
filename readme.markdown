@@ -23,11 +23,11 @@ Mean edit distance        : 7.914
 
 Word samples
 ------------
-depicted flavor puck unsure processing ardent
-zoologist league galleries invasive evolved genuinely
-tags coughing refund enlightened leukemia business
-scissors major hunters distinguishes gentle specimens
-biological timetable decimal badge eliminate visually
+accreditation artistry sprint penalties boast inhabits
+ignore regaining angrily queue foxes brawl
+snatched replay guild measured extensively carvings
+seminal protesters displayed include embarking seminary
+escaping oppose interfered blanket sadness myths
 ```
 
 ## Orchard Street Medium List
@@ -41,17 +41,17 @@ Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.832 bits
+Efficiency per character  : 1.834 bits
 Assumed entropy per char  : 4.308 bits
-Mean edit distance        : 6.953
+Mean edit distance        : 6.950
 
 Word samples
 ------------
-endangered criticisms priory fashioned crescent decreasing
-structures video denied recovery argued reign
-warfare profound needs always screened replied
-declaring solidarity prose hesitated stressed rhetoric
-naked fiber mold rolls latest bent
+angle bowling supplier career consent wounded
+mountains bunch fond drums opera accident
+municipal memorandum patient districts alarm discussing
+boulder northwest attained meditation equals novelist
+card recipients retirement laughing aided occurs
 ```
 
 ## Orchard Street Short Lists
