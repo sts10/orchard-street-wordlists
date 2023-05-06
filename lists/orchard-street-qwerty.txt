@@ -269,7 +269,6 @@ dirt
 doe
 dog
 doll
-don
 doom
 door
 dot
@@ -746,6 +745,7 @@ nerve
 nest
 net
 nets
+never
 newer
 news
 next
@@ -1137,7 +1137,6 @@ told
 tomb
 ton
 tong
-tony
 too
 took
 tooth
@@ -1246,6 +1245,7 @@ wave
 waved
 waves
 wax
+ways
 weak
 wears
 weary
