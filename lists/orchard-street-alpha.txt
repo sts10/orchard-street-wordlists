@@ -133,7 +133,6 @@ bows
 box
 boy
 boys
-bred
 buck
 bud
 bug
@@ -448,7 +447,6 @@ fuss
 fuzzy
 gable
 gains
-gait
 gale
 game
 gamma
@@ -771,6 +769,7 @@ none
 noon
 norm
 note
+noted
 notion
 noun
 nouns
@@ -905,6 +904,7 @@ ran
 rat
 ray
 read
+red
 reds
 reef
 reel

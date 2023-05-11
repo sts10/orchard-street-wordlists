@@ -7685,7 +7685,6 @@ hereditary
 heredity
 heresy
 heretics
-heretofore
 heritage
 hermit
 hermitage
@@ -12413,6 +12412,7 @@ provincial
 provision
 provisional
 provisions
+proviso
 provocation
 provocative
 provoke
@@ -12961,6 +12961,7 @@ refuses
 refusing
 refutation
 refute
+refuted
 regain
 regained
 regaining
@@ -17301,7 +17302,6 @@ whence
 whenever
 whereabouts
 whereas
-whereby
 wherefore
 wherein
 whereupon

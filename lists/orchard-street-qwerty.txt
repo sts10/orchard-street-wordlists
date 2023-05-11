@@ -113,7 +113,6 @@ bow
 boy
 brass
 bread
-bred
 breed
 breeds
 brewer
@@ -162,7 +161,6 @@ case
 cases
 cash
 cast
-caste
 cat
 cater
 cats
@@ -318,6 +316,7 @@ effect
 egg
 eggs
 ego
+eight
 elk
 elm
 ended
@@ -499,7 +498,6 @@ ham
 hard
 hare
 harry
-hart
 has
 hasty
 hate
@@ -944,6 +942,7 @@ rude
 rugby
 rugged
 ruin
+rule
 run
 runs
 rye
@@ -1036,6 +1035,7 @@ slot
 soil
 solo
 son
+soon
 soy
 spy
 steer
