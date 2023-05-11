@@ -674,6 +674,7 @@ beds
 bee
 beef
 beer
+bees
 beetle
 beetles
 beg
@@ -2455,6 +2456,7 @@ ensemble
 ensuing
 ensure
 ensuring
+entails
 entering
 enterprise
 enthusiasm
@@ -3044,6 +3046,7 @@ funeral
 fungi
 funk
 funny
+furious
 furnace
 furnished
 furniture
@@ -4348,7 +4351,6 @@ methods
 metric
 metro
 mice
-mickey
 microscope
 microscopy
 microwave
@@ -7046,7 +7048,6 @@ textbooks
 textile
 textual
 texture
-thank
 thanks
 theater
 theaters
@@ -7640,7 +7641,6 @@ wheeler
 wheels
 whenever
 whereas
-whereby
 wherein
 wherever
 whilst

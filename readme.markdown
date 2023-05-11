@@ -1,6 +1,6 @@
 # Orchard Street Wordlists
 
-Fresh wordlists for all your passphrase-creation needs! Use these wordlists to create strong, secure passphrases, either [with dice](https://www.eff.org/dice) or a password manager/generator.
+Fresh wordlists for all your passphrase-creation needs. Use these wordlists to create strong, secure passphrases, either [with dice](https://www.eff.org/dice) or a password manager/generator.
 
 All of the wordlists included in this repository are **uniquely decodable**, meaning words from any one of these lists can be safely combined without word separators. For example: "sharkhealsetupthrustphasespy".
 
@@ -15,19 +15,25 @@ List length               : 17576 words
 Mean word length          : 7.98 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (troubleshooting)
+Free of prefix words?     : false
+Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 14.101 bits
 Efficiency per character  : 1.767 bits
 Assumed entropy per char  : 4.700 bits
+Above brute force line?   : true
+Shortest edit distance    : 1
 Mean edit distance        : 7.914
+Longest shared prefix     : 14
+Unique character prefix   : 15
 
 Word samples
 ------------
-accreditation artistry sprint penalties boast inhabits
-ignore regaining angrily queue foxes brawl
-snatched replay guild measured extensively carvings
-seminal protesters displayed include embarking seminary
-escaping oppose interfered blanket sadness myths
+idiosyncratic executable signifies groin parallel menacing
+realized leans sandals concepts explores stuffed
+quite insured scoop satellites snail tweed
+industrialized contingency masking oily dangers receipts
+apps sash seldom metabolic wisdom anticipates
 ```
 
 ## Orchard Street Medium List
@@ -36,22 +42,26 @@ The [Orchard Street Medium List](lists/orchard-street-medium.txt) is our version
 
 ```text
 List length               : 7776 words
-Mean word length          : 7.06 characters
+Mean word length          : 7.05 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
-Uniquely decodable?       : true
+Free of prefix words?     : false
+Free of suffix words?     : false
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.831 bits
+Efficiency per character  : 1.834 bits
 Assumed entropy per char  : 4.308 bits
-Mean edit distance        : 6.956
+Above brute force line?   : true
+Shortest edit distance    : 1
+Longest shared prefix     : 9
+Unique character prefix   : 10
 
 Word samples
 ------------
-motives tunnel rockets oxide radio facade
-decides beast mobility plenty anywhere wires
-desires alcohol arc generated violent carried
-index considered butter introduces expressway linking
-outputs lighthouse spirit recruiting opinion discussion
+suffer securing second engine prevention casual
+emphasize resembles hypotheses urged regulated impression
+clash falling unable combines identified enrollment
+million stash barely rich carrier sharks
+hiding nickname heroic root doing peculiar
 ```
 
 ## Orchard Street Short Lists
