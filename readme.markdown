@@ -23,11 +23,11 @@ Mean edit distance        : 7.914
 
 Word samples
 ------------
-idiosyncratic executable signifies groin parallel menacing
-realized leans sandals concepts explores stuffed
-quite insured scoop satellites snail tweed
-industrialized contingency masking oily dangers receipts
-apps sash seldom metabolic wisdom anticipates
+filter logos fellows assault patients grievances
+platelet reconstruct distrust referee biases scoreless
+cleared bead geographers appreciate mug innovations
+withdrawal remarried surgery muscular oblong influential
+miniseries completion paucity beliefs adversity unorthodox
 ```
 
 ## Orchard Street Medium List
@@ -47,11 +47,11 @@ Mean edit distance        : 6.951
 
 Word samples
 ------------
-suffer securing second engine prevention casual
-emphasize resembles hypotheses urged regulated impression
-clash falling unable combines identified enrollment
-million stash barely rich carrier sharks
-hiding nickname heroic root doing peculiar
+cities markings cabin heaven speeds eventually
+examined bag gravity interim underwater merits
+followers prevention deciding therapy upstairs collection
+successive decreasing bee cry diary sin
+grew pay mouth appearance triangle snow
 ```
 
 ## Orchard Street Short Lists
