@@ -145,7 +145,6 @@ advocates
 aerial
 affair
 affairs
-affect
 affected
 affecting
 affection
@@ -3427,6 +3426,7 @@ homeland
 homeless
 homer
 homes
+homestead
 hometown
 honest
 honesty
@@ -4526,6 +4526,7 @@ musician
 musicians
 mutation
 mutations
+muttered
 mutual
 mutually
 myself
@@ -7640,7 +7641,6 @@ wheelchair
 wheeler
 wheels
 whenever
-whereas
 wherein
 wherever
 whilst
