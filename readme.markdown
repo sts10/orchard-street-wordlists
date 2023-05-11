@@ -15,17 +15,11 @@ List length               : 17576 words
 Mean word length          : 7.98 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (troubleshooting)
-Free of prefix words?     : false
-Free of suffix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 14.101 bits
 Efficiency per character  : 1.767 bits
-Assumed entropy per char  : 4.700 bits
 Above brute force line?   : true
-Shortest edit distance    : 1
 Mean edit distance        : 7.914
-Longest shared prefix     : 14
-Unique character prefix   : 15
 
 Word samples
 ------------
@@ -45,15 +39,11 @@ List length               : 7776 words
 Mean word length          : 7.05 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
-Free of prefix words?     : false
-Free of suffix words?     : false
+Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
 Efficiency per character  : 1.834 bits
-Assumed entropy per char  : 4.308 bits
 Above brute force line?   : true
-Shortest edit distance    : 1
-Longest shared prefix     : 9
-Unique character prefix   : 10
+Mean edit distance        : 6.951
 
 Word samples
 ------------
