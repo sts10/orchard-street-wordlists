@@ -35,6 +35,7 @@ miniseries completion paucity beliefs adversity unorthodox
 The [Orchard Street Medium List](lists/orchard-street-medium.txt) is our version of the classic Diceware list. 7,776 words gives a traditional 12.925 bits of entropy per word, same as [the EFF long word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases). Also available [with corresponding dice roll numbers prepended](lists/orchard-street-medium-dice.txt) (when using dice to create a passphrase, we recommend you follow [EFF's instructions for creating a passphrase](https://www.eff.org/dice)).
 
 ```text
+
 List length               : 7776 words
 Mean word length          : 7.05 characters
 Length of shortest word   : 3 characters (add)
@@ -47,11 +48,11 @@ Mean edit distance        : 6.951
 
 Word samples
 ------------
-cities markings cabin heaven speeds eventually
-examined bag gravity interim underwater merits
-followers prevention deciding therapy upstairs collection
-successive decreasing bee cry diary sin
-grew pay mouth appearance triangle snow
+donor observed protestant unable oversight packet
+crowd nearby electrode erected receiver tanks
+senator yeast clock caves economist brewery
+critically warn studio blowing delighted receiver
+decisions armored trades nothing tube assuming
 ```
 
 ## Orchard Street Short Lists

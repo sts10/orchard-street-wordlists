@@ -148,7 +148,6 @@ affairs
 affected
 affecting
 affection
-affects
 affiliate
 affiliated
 affinity
@@ -6960,6 +6959,7 @@ tank
 tanks
 tap
 tape
+tapes
 target
 targeted
 targeting
