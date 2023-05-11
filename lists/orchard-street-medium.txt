@@ -6839,6 +6839,7 @@ supplier
 suppliers
 supplies
 supply
+supplying
 support
 supported
 supporter
@@ -7551,7 +7552,6 @@ waist
 wait
 waited
 waiting
-waived
 wales
 walk
 walked
