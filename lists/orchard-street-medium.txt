@@ -100,6 +100,7 @@ addresses
 addressing
 adds
 adequately
+adherence
 adjacent
 adjoining
 adjust
@@ -673,6 +674,7 @@ beds
 bee
 beef
 beer
+bees
 beetle
 beetles
 beg
@@ -1523,6 +1525,7 @@ contents
 contest
 contestant
 contested
+contests
 context
 contexts
 continent
@@ -2455,6 +2458,7 @@ ensemble
 ensuing
 ensure
 ensuring
+entails
 entering
 enterprise
 enthusiasm
@@ -2467,6 +2471,7 @@ entrants
 entries
 entry
 envelope
+envy
 enzyme
 enzymes
 epic
@@ -2532,6 +2537,7 @@ everywhere
 evidence
 evident
 evidently
+evoked
 evolve
 evolved
 evolving
@@ -2813,6 +2819,7 @@ film
 filmed
 filming
 filmmaker
+filmmakers
 films
 filter
 filters
@@ -3043,6 +3050,7 @@ funeral
 fungi
 funk
 funny
+furious
 furnace
 furnished
 furniture
@@ -3227,6 +3235,7 @@ grin
 grinned
 grip
 gross
+grossed
 grounded
 grounds
 group
@@ -3351,7 +3360,6 @@ hectares
 height
 heights
 heir
-held
 helicopter
 hello
 helmet
@@ -3415,6 +3423,7 @@ holes
 holiday
 holidays
 hollow
+holly
 holy
 homage
 home
@@ -3422,6 +3431,7 @@ homeland
 homeless
 homer
 homes
+homestead
 hometown
 honest
 honesty
@@ -3505,7 +3515,6 @@ identities
 identity
 ideology
 idle
-idol
 ignorance
 ignorant
 ignore
@@ -3553,6 +3562,7 @@ impressed
 impression
 impressive
 imprisoned
+improper
 improve
 improved
 improving
@@ -3877,7 +3887,6 @@ knocked
 knockout
 knowing
 knowledge
-knows
 koala
 lab
 label
@@ -4136,7 +4145,6 @@ machines
 macro
 mad
 madame
-made
 madness
 magazine
 magazines
@@ -4158,7 +4166,6 @@ maize
 majesty
 major
 majority
-makers
 makes
 makeup
 making
@@ -4223,7 +4230,6 @@ marrow
 marry
 mars
 marsh
-marshal
 martial
 martin
 marvel
@@ -4293,7 +4299,6 @@ medieval
 meditation
 medium
 medley
-meet
 meeting
 meetings
 meets
@@ -4523,6 +4528,7 @@ musician
 musicians
 mutation
 mutations
+muttered
 mutual
 mutually
 myself
@@ -4620,6 +4626,7 @@ noticed
 noting
 notion
 notorious
+noun
 novel
 novelist
 novels
@@ -4630,6 +4637,7 @@ number
 numbered
 numbering
 numbers
+numerical
 numerous
 nurse
 nurses
@@ -4750,7 +4758,6 @@ orderly
 ordinance
 ordinarily
 ordinary
-ordnance
 organ
 organic
 organism
@@ -4932,7 +4939,6 @@ paying
 payment
 payments
 pays
-peace
 peaceful
 peaked
 pearl
@@ -5039,6 +5045,7 @@ pig
 pigs
 pile
 pilgrimage
+pillars
 pilot
 pilots
 pink
@@ -5134,9 +5141,7 @@ polite
 political
 politician
 politics
-poll
 polling
-polls
 pollution
 polo
 polymer
@@ -5234,7 +5239,6 @@ preferred
 pregnancy
 pregnant
 prejudice
-premier
 premiere
 premiered
 premise
@@ -5291,7 +5295,6 @@ prince
 princes
 princess
 principal
-principle
 principles
 printer
 printing
@@ -5303,6 +5306,7 @@ priory
 prison
 prisoner
 prisoners
+prisons
 privacy
 private
 privately
@@ -5381,13 +5385,11 @@ prone
 pronounced
 proof
 propaganda
-proper
 properly
 properties
 property
 prophecy
 prophet
-prophets
 proportion
 proposal
 proposals
@@ -5700,6 +5702,7 @@ reinforce
 reinforced
 reject
 rejected
+rejecting
 rejection
 rejoined
 relate
@@ -5935,6 +5938,7 @@ riot
 risen
 risk
 risks
+rites
 ritual
 rituals
 rivalry
@@ -5952,8 +5956,6 @@ rockets
 rocks
 rocky
 rod
-role
-roles
 roll
 roller
 rolling
@@ -6651,9 +6653,10 @@ statutory
 stay
 stayed
 staying
+stays
 steadily
 steady
-steal
+stealing
 steals
 steam
 steel
@@ -6797,6 +6800,7 @@ suddenly
 suffer
 suffered
 suffering
+suffice
 sufficient
 suffrage
 sugar
@@ -6954,6 +6958,7 @@ tank
 tanks
 tap
 tape
+tapes
 target
 targeted
 targeting
@@ -7312,6 +7317,7 @@ types
 typhoon
 typical
 typically
+typing
 ugly
 ultimate
 ultimately
@@ -7376,6 +7382,7 @@ updated
 updates
 upgrade
 upgraded
+upheld
 upon
 upright
 uprising
@@ -7408,7 +7415,6 @@ vaccine
 vacuum
 vague
 vain
-vale
 validation
 validity
 valley
@@ -7549,8 +7555,6 @@ wager
 wages
 wagon
 waist
-wait
-waited
 waiting
 wales
 walk
@@ -7612,7 +7616,6 @@ web
 website
 websites
 wedding
-week
 weekend
 weekly
 weeks
@@ -7628,6 +7631,7 @@ welsh
 western
 westward
 wet
+wetlands
 whale
 whatever
 whatsoever
@@ -7641,14 +7645,12 @@ whereas
 whereby
 wherein
 wherever
-whether
 whilst
 whispered
 white
 whoever
 whole
 wholesale
-wholly
 wicked
 wickets
 widely
@@ -7741,9 +7743,7 @@ wrestler
 wrestlers
 wrestling
 wrist
-write
 writers
-writes
 writing
 writings
 written
