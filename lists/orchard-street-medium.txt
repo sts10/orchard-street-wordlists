@@ -765,6 +765,7 @@ blanket
 blast
 bleeding
 blend
+bless
 blessed
 blessing
 blew
@@ -990,11 +991,11 @@ capital
 capitalism
 capitalist
 capitals
-capitol
 capped
 caps
 captain
 captained
+captive
 capture
 captured
 capturing
@@ -1072,6 +1073,7 @@ cement
 cemetery
 censorship
 census
+centennial
 center
 centered
 centers
@@ -1269,7 +1271,6 @@ coarse
 coast
 coastal
 coat
-coated
 coating
 code
 codes
@@ -1775,6 +1776,7 @@ dangerous
 dangers
 dare
 dared
+daring
 dark
 darker
 darkness
@@ -1799,7 +1801,6 @@ dealers
 dealing
 dealt
 dean
-dear
 death
 deaths
 debate
@@ -1902,6 +1903,7 @@ demand
 demanded
 demanding
 demands
+dementia
 demise
 demo
 democracy
@@ -1931,6 +1933,7 @@ dependency
 dependent
 depending
 depends
+depict
 depicted
 depicting
 depiction
@@ -2018,6 +2021,7 @@ devices
 devil
 devils
 devised
+devote
 devoted
 devotion
 diabetes
@@ -2082,6 +2086,7 @@ disagree
 disappear
 disaster
 disbanded
+discarded
 discharge
 discharged
 disciples
@@ -2700,7 +2705,6 @@ failures
 faint
 fairly
 fairness
-fairy
 faith
 faithful
 fake
@@ -2967,6 +2971,7 @@ fortified
 fortress
 fortunate
 fortune
+fortunes
 forty
 forum
 forward
@@ -4195,6 +4200,7 @@ manning
 manor
 manpower
 mansion
+mantle
 manual
 manuscript
 map
@@ -4496,7 +4502,6 @@ mound
 mountain
 mountains
 mounting
-mourning
 mouse
 mouth
 movement
@@ -4955,6 +4960,7 @@ penetrate
 penguin
 peninsula
 penny
+pension
 people
 peoples
 pepper
@@ -5280,7 +5286,6 @@ preventive
 prevents
 previous
 previously
-prey
 price
 prices
 pricing
@@ -5719,7 +5724,6 @@ relaxation
 relaxed
 relay
 release
-released
 releases
 releasing
 relegated
@@ -5920,6 +5924,7 @@ rewards
 rhetoric
 rhetorical
 rhythm
+rhythmic
 ribbon
 rich
 rider
@@ -5938,7 +5943,6 @@ riot
 risen
 risk
 risks
-rites
 ritual
 rituals
 rivalry
@@ -6108,6 +6112,7 @@ scout
 scouting
 scouts
 scrapped
+screamed
 screaming
 screen
 screened
@@ -6181,10 +6186,8 @@ selecting
 selection
 selective
 selfish
-sell
 seller
 selling
-sells
 semantic
 semantics
 semi
@@ -6201,7 +6204,6 @@ sends
 senior
 sensation
 sensations
-sense
 sensed
 senses
 sensible
@@ -6943,7 +6945,6 @@ tactics
 tag
 takeover
 taking
-tale
 talent
 talented
 talents
@@ -7101,7 +7102,6 @@ throne
 throughout
 throw
 throwing
-thrown
 throws
 thrust
 thumb
@@ -7353,6 +7353,7 @@ unhappy
 unified
 uniform
 uniforms
+unilateral
 unions
 unique
 unit
@@ -7370,6 +7371,7 @@ unnamed
 unofficial
 unpleasant
 unrelated
+unreleased
 unrest
 unstable
 unusual
@@ -7466,7 +7468,6 @@ verdict
 verify
 verses
 versions
-versus
 vertical
 vessel
 vessels
@@ -7540,7 +7541,6 @@ voluntary
 volunteer
 volunteers
 vomiting
-vote
 voter
 voters
 votes
