@@ -674,7 +674,6 @@ beds
 bee
 beef
 beer
-bees
 beetle
 beetles
 beg
@@ -765,7 +764,6 @@ blanket
 blast
 bleeding
 blend
-bless
 blessed
 blessing
 blew
@@ -995,7 +993,6 @@ capped
 caps
 captain
 captained
-captive
 capture
 captured
 capturing
@@ -1032,7 +1029,6 @@ carved
 cases
 cash
 casino
-caste
 casting
 castle
 casual
@@ -1073,7 +1069,6 @@ cement
 cemetery
 censorship
 census
-centennial
 center
 centered
 centers
@@ -1801,6 +1796,7 @@ dealers
 dealing
 dealt
 dean
+dear
 death
 deaths
 debate
@@ -1903,7 +1899,6 @@ demand
 demanded
 demanding
 demands
-dementia
 demise
 demo
 democracy
@@ -1933,7 +1928,6 @@ dependency
 dependent
 depending
 depends
-depict
 depicted
 depicting
 depiction
@@ -2021,7 +2015,6 @@ devices
 devil
 devils
 devised
-devote
 devoted
 devotion
 diabetes
@@ -2086,7 +2079,6 @@ disagree
 disappear
 disaster
 disbanded
-discarded
 discharge
 discharged
 disciples
@@ -2463,7 +2455,6 @@ ensemble
 ensuing
 ensure
 ensuring
-entails
 entering
 enterprise
 enthusiasm
@@ -2476,7 +2467,6 @@ entrants
 entries
 entry
 envelope
-envy
 enzyme
 enzymes
 epic
@@ -2705,6 +2695,7 @@ failures
 faint
 fairly
 fairness
+fairy
 faith
 faithful
 fake
@@ -2823,7 +2814,6 @@ film
 filmed
 filming
 filmmaker
-filmmakers
 films
 filter
 filters
@@ -2971,7 +2961,6 @@ fortified
 fortress
 fortunate
 fortune
-fortunes
 forty
 forum
 forward
@@ -3055,7 +3044,6 @@ funeral
 fungi
 funk
 funny
-furious
 furnace
 furnished
 furniture
@@ -3240,7 +3228,6 @@ grin
 grinned
 grip
 gross
-grossed
 grounded
 grounds
 group
@@ -3365,6 +3352,7 @@ hectares
 height
 heights
 heir
+held
 helicopter
 hello
 helmet
@@ -3436,7 +3424,6 @@ homeland
 homeless
 homer
 homes
-homestead
 hometown
 honest
 honesty
@@ -3520,6 +3507,7 @@ identities
 identity
 ideology
 idle
+idol
 ignorance
 ignorant
 ignore
@@ -3567,7 +3555,6 @@ impressed
 impression
 impressive
 imprisoned
-improper
 improve
 improved
 improving
@@ -3892,6 +3879,7 @@ knocked
 knockout
 knowing
 knowledge
+knows
 koala
 lab
 label
@@ -4150,6 +4138,7 @@ machines
 macro
 mad
 madame
+made
 madness
 magazine
 magazines
@@ -4167,10 +4156,10 @@ mainstream
 maintain
 maintained
 maintains
-maize
 majesty
 major
 majority
+makers
 makes
 makeup
 making
@@ -4200,7 +4189,6 @@ manning
 manor
 manpower
 mansion
-mantle
 manual
 manuscript
 map
@@ -4236,6 +4224,7 @@ marrow
 marry
 mars
 marsh
+marshal
 martial
 martin
 marvel
@@ -4305,6 +4294,7 @@ medieval
 meditation
 medium
 medley
+meet
 meeting
 meetings
 meets
@@ -4502,6 +4492,7 @@ mound
 mountain
 mountains
 mounting
+mourning
 mouse
 mouth
 movement
@@ -4533,7 +4524,6 @@ musician
 musicians
 mutation
 mutations
-muttered
 mutual
 mutually
 myself
@@ -4631,7 +4621,6 @@ noticed
 noting
 notion
 notorious
-noun
 novel
 novelist
 novels
@@ -4642,7 +4631,6 @@ number
 numbered
 numbering
 numbers
-numerical
 numerous
 nurse
 nurses
@@ -4944,6 +4932,7 @@ paying
 payment
 payments
 pays
+peace
 peaceful
 peaked
 pearl
@@ -4960,7 +4949,6 @@ penetrate
 penguin
 peninsula
 penny
-pension
 people
 peoples
 pepper
@@ -5147,7 +5135,9 @@ polite
 political
 politician
 politics
+poll
 polling
+polls
 pollution
 polo
 polymer
@@ -5286,6 +5276,7 @@ preventive
 prevents
 previous
 previously
+prey
 price
 prices
 pricing
@@ -5300,6 +5291,7 @@ prince
 princes
 princess
 principal
+principle
 principles
 printer
 printing
@@ -5390,11 +5382,13 @@ prone
 pronounced
 proof
 propaganda
+proper
 properly
 properties
 property
 prophecy
 prophet
+prophets
 proportion
 proposal
 proposals
@@ -5707,7 +5701,6 @@ reinforce
 reinforced
 reject
 rejected
-rejecting
 rejection
 rejoined
 relate
@@ -5724,6 +5717,7 @@ relaxation
 relaxed
 relay
 release
+released
 releases
 releasing
 relegated
@@ -5924,7 +5918,6 @@ rewards
 rhetoric
 rhetorical
 rhythm
-rhythmic
 ribbon
 rich
 rider
@@ -5960,6 +5953,8 @@ rockets
 rocks
 rocky
 rod
+role
+roles
 roll
 roller
 rolling
@@ -6112,7 +6107,6 @@ scout
 scouting
 scouts
 scrapped
-screamed
 screaming
 screen
 screened
@@ -6186,8 +6180,10 @@ selecting
 selection
 selective
 selfish
+sell
 seller
 selling
+sells
 semantic
 semantics
 semi
@@ -6204,6 +6200,7 @@ sends
 senior
 sensation
 sensations
+sense
 sensed
 senses
 sensible
@@ -6658,6 +6655,7 @@ staying
 stays
 steadily
 steady
+steal
 stealing
 steals
 steam
@@ -6802,7 +6800,6 @@ suddenly
 suffer
 suffered
 suffering
-suffice
 sufficient
 suffrage
 sugar
@@ -6945,6 +6942,7 @@ tactics
 tag
 takeover
 taking
+tale
 talent
 talented
 talents
@@ -6959,7 +6957,6 @@ tank
 tanks
 tap
 tape
-tapes
 target
 targeted
 targeting
@@ -7102,6 +7099,7 @@ throne
 throughout
 throw
 throwing
+thrown
 throws
 thrust
 thumb
@@ -7317,7 +7315,6 @@ types
 typhoon
 typical
 typically
-typing
 ugly
 ultimate
 ultimately
@@ -7353,7 +7350,6 @@ unhappy
 unified
 uniform
 uniforms
-unilateral
 unions
 unique
 unit
@@ -7371,7 +7367,6 @@ unnamed
 unofficial
 unpleasant
 unrelated
-unreleased
 unrest
 unstable
 unusual
@@ -7384,7 +7379,6 @@ updated
 updates
 upgrade
 upgraded
-upheld
 upon
 upright
 uprising
@@ -7417,6 +7411,7 @@ vaccine
 vacuum
 vague
 vain
+vale
 validation
 validity
 valley
@@ -7468,6 +7463,7 @@ verdict
 verify
 verses
 versions
+versus
 vertical
 vessel
 vessels
@@ -7541,6 +7537,7 @@ voluntary
 volunteer
 volunteers
 vomiting
+vote
 voter
 voters
 votes
@@ -7555,8 +7552,9 @@ wager
 wages
 wagon
 waist
+wait
+waited
 waiting
-wales
 walk
 walked
 walker
@@ -7616,6 +7614,7 @@ web
 website
 websites
 wedding
+week
 weekend
 weekly
 weeks
@@ -7631,7 +7630,6 @@ welsh
 western
 westward
 wet
-wetlands
 whale
 whatever
 whatsoever
@@ -7743,7 +7741,9 @@ wrestler
 wrestlers
 wrestling
 wrist
+write
 writers
+writes
 writing
 writings
 written

@@ -2547,7 +2547,6 @@ champions
 championship
 championships
 chance
-chancel
 chancellor
 chancery
 chances
@@ -9610,6 +9609,7 @@ malignant
 malls
 malnutrition
 malpractice
+malt
 mama
 mamma
 mammal
