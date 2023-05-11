@@ -1271,6 +1271,7 @@ coarse
 coast
 coastal
 coat
+coated
 coating
 code
 codes
@@ -1776,7 +1777,6 @@ dangerous
 dangers
 dare
 dared
-daring
 dark
 darker
 darkness
