@@ -23,11 +23,11 @@ Mean edit distance        : 7.914
 
 Word samples
 ------------
-filter logos fellows assault patients grievances
-platelet reconstruct distrust referee biases scoreless
-cleared bead geographers appreciate mug innovations
-withdrawal remarried surgery muscular oblong influential
-miniseries completion paucity beliefs adversity unorthodox
+therapies glider careful armies globe immobile
+safeguards wildlife molecular assemblages underneath footing
+announcer expresses slogan sesame democratization brooding
+hornet meteorology invoice jumped symbolized corollary
+philanthropic dispensing jam demonstrations atoms crucified
 ```
 
 ## Orchard Street Medium List
@@ -48,11 +48,11 @@ Mean edit distance        : 6.951
 
 Word samples
 ------------
-donor observed protestant unable oversight packet
-crowd nearby electrode erected receiver tanks
-senator yeast clock caves economist brewery
-critically warn studio blowing delighted receiver
-decisions armored trades nothing tube assuming
+websites french proposed shoulder silly inn
+failing wrestlers menu winner society managers
+pillars flights fingers tolerate permitted sacked
+bears complement economies vicar direction reproduced
+female afraid trapped wheelchair sharks albums
 ```
 
 ## Orchard Street Short Lists
