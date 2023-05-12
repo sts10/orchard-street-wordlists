@@ -68,6 +68,12 @@ The words that make up these word lists are taken from two sources: [Google Book
 
 The lists were made uniquely decodable using a process based on [the Sardinas–Patterson algorithm](https://en.wikipedia.org/wiki/Sardinas%E2%80%93Patterson_algorithm) that I call [Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). 
 
+### If I want a really long list, can I combine all of the Orchard Street Wordlists into one super long list?
+
+I would NOT recommend doing this. The reason is that, even if you removed duplicate words, the resulting list would **almost certainly not be uniquely decodable**. 
+
+You could use a tool I wrote called [Tidy](https://github.com/sts10/tidy) to make cuts to the resulting list until it is uniquely decodable, or you could consider [this 40,000-word, uniquely decodable list I created](https://github.com/sts10/generated-wordlists/blob/main/lists/experimental/ud2.txt) as part of another project.
+
 ### What tools were used to create the Orchard Street Wordlists?
 
 - [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists. 
