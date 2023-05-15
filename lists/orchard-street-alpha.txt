@@ -89,7 +89,6 @@ bees
 beg
 being
 bell
-belle
 bent
 best
 bet
@@ -240,7 +239,6 @@ count
 counts
 county
 coup
-coupe
 coupon
 cove
 cow
@@ -368,6 +366,7 @@ expo
 face
 fact
 fade
+fall
 fan
 fans
 far
@@ -692,6 +691,7 @@ manor
 many
 map
 mar
+mark
 mason
 mass
 mast
