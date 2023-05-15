@@ -4888,6 +4888,7 @@ dismal
 dismantled
 dismantling
 dismay
+dismayed
 dismiss
 dismissal
 dismissed
@@ -9732,7 +9733,6 @@ marshals
 marshes
 martial
 martian
-martin
 martini
 martins
 martyr
@@ -11734,6 +11734,7 @@ poetical
 poetry
 poets
 poignant
+pointedly
 pointer
 pointers
 pointless
@@ -16841,7 +16842,6 @@ vague
 vaguely
 vagueness
 vain
-vale
 valentine
 valiant
 validate
