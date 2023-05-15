@@ -595,6 +595,7 @@ keep
 key
 kid
 kids
+killed
 kills
 kind
 kinds
@@ -656,6 +657,7 @@ lone
 long
 look
 looked
+looking
 lookout
 looks
 loop
@@ -1005,7 +1007,6 @@ sexes
 sexy
 she
 shed
-sheer
 sheet
 shin
 ship
@@ -1116,7 +1117,6 @@ thumb
 thus
 tide
 tie
-tied
 tier
 ties
 tiger

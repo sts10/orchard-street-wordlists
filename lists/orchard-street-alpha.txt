@@ -269,6 +269,7 @@ day
 days
 dead
 deaf
+deal
 dean
 debt
 debts
@@ -1148,7 +1149,6 @@ three
 thus
 tide
 tie
-tied
 tier
 tight
 tile
