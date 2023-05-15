@@ -15,6 +15,7 @@ List length               : 17576 words
 Mean word length          : 7.98 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 15 characters (troubleshooting)
+Free of prefix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 14.101 bits
 Efficiency per character  : 1.767 bits
@@ -23,11 +24,11 @@ Mean edit distance        : 7.914
 
 Word samples
 ------------
-therapies glider careful armies globe immobile
-safeguards wildlife molecular assemblages underneath footing
-announcer expresses slogan sesame democratization brooding
-hornet meteorology invoice jumped symbolized corollary
-philanthropic dispensing jam demonstrations atoms crucified
+affectionate delegation surveying dug luminosity peroxide
+corridors compulsion cougars appreciable elite triathlon
+realism pancreas pavilions tormented basic laboring
+request orbit cottage agile defend demos
+aground flee propped blot impurity abandon
 ```
 
 ## Orchard Street Medium List
@@ -35,24 +36,23 @@ philanthropic dispensing jam demonstrations atoms crucified
 The [Orchard Street Medium List](lists/orchard-street-medium.txt) is our version of the classic Diceware list. 7,776 words gives a traditional 12.925 bits of entropy per word, same as [the EFF long word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases). Also available [with corresponding dice roll numbers prepended](lists/orchard-street-medium-dice.txt) (when using dice to create a passphrase, we recommend you follow [EFF's instructions for creating a passphrase](https://www.eff.org/dice)).
 
 ```text
-
 List length               : 7776 words
 Mean word length          : 7.05 characters
 Length of shortest word   : 3 characters (add)
 Length of longest word    : 10 characters (worthwhile)
+Free of prefix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
-Efficiency per character  : 1.834 bits
 Above brute force line?   : true
-Mean edit distance        : 6.951
+Mean edit distance        : 6.952
 
 Word samples
 ------------
-websites french proposed shoulder silly inn
-failing wrestlers menu winner society managers
-pillars flights fingers tolerate permitted sacked
-bears complement economies vicar direction reproduced
-female afraid trapped wheelchair sharks albums
+oaks rope narrowly surgical government permitted
+residues needed discussed colony servant terminate
+variety chess scandal hundreds publicity instant
+dependency swift offshore listeners definitely prototype
+dreams pregnant insect allowing transit patrol
 ```
 
 ## Orchard Street Short Lists
