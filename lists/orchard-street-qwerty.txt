@@ -845,7 +845,6 @@ poorer
 pop
 pope
 popped
-pore
 pores
 pork
 port
@@ -1218,6 +1217,7 @@ verse
 vertex
 vet
 veto
+via
 vie
 view
 wade

@@ -397,6 +397,7 @@ file
 fill
 fin
 find
+fine
 fins
 fir
 fire
@@ -519,7 +520,6 @@ him
 hind
 hint
 hints
-hips
 hire
 hired
 hit
@@ -626,7 +626,6 @@ last
 lay
 lead
 lean
-least
 left
 leg
 legs
@@ -741,6 +740,7 @@ mounts
 mouth
 move
 moved
+movie
 much
 mud
 mule
@@ -865,7 +865,6 @@ poor
 pop
 pope
 popped
-pore
 pork
 port
 post
@@ -993,6 +992,7 @@ shell
 shin
 shiny
 ship
+ships
 shoe
 shook
 shoot
@@ -1047,6 +1047,7 @@ sonic
 sons
 soon
 sore
+sort
 soul
 sound
 soup
@@ -1223,7 +1224,6 @@ vet
 via
 vice
 video
-vie
 view
 vine
 visa
