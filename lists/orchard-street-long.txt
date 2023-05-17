@@ -407,7 +407,6 @@ aggressiveness
 agile
 agitated
 agitation
-ago
 agony
 agrarian
 agree
@@ -778,7 +777,6 @@ anymore
 anyone
 anything
 anytime
-anyway
 anywhere
 aorta
 apart
@@ -1909,7 +1907,6 @@ boundless
 bounty
 bouquet
 bourbon
-bourgeois
 bourgeoisie
 bout
 boutique
@@ -2330,7 +2327,6 @@ carbohydrate
 carbohydrates
 carbon
 carbonate
-carcinoma
 cardboard
 cardiac
 cardinal
@@ -2625,7 +2621,6 @@ cheers
 cheese
 chef
 chefs
-chem
 chemical
 chemically
 chemicals
@@ -4079,7 +4074,6 @@ customize
 customized
 customs
 cutoff
-cuts
 cutter
 cutting
 cuttings
@@ -4306,6 +4300,7 @@ deflection
 deforestation
 deformation
 deformed
+deformities
 deformity
 defunct
 defy
@@ -7893,6 +7888,7 @@ hub
 hubs
 huddled
 hue
+hues
 hug
 huge
 hugely
@@ -11092,6 +11088,7 @@ paperwork
 papyrus
 par
 parables
+parabolic
 parachute
 parade
 parades
@@ -13482,6 +13479,7 @@ reviving
 revocation
 revoked
 revolt
+revolted
 revolts
 revolution
 revolutionaries
@@ -14276,6 +14274,7 @@ shortage
 shortages
 shortcomings
 shortcut
+shortcuts
 shorten
 shortened
 shortening
@@ -15394,6 +15393,7 @@ sudden
 suddenly
 suffer
 suffered
+sufferers
 suffering
 sufferings
 suffers

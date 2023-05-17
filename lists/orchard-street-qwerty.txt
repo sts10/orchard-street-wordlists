@@ -447,7 +447,6 @@ gig
 gigs
 gill
 gin
-give
 gloom
 glow
 glue
@@ -536,6 +535,7 @@ holy
 hood
 hope
 hour
+hours
 how
 hub
 hue
@@ -1003,7 +1003,6 @@ setup
 severe
 sewer
 sex
-sexes
 sexy
 she
 shed
@@ -1117,6 +1116,7 @@ thumb
 thus
 tide
 tie
+tied
 tier
 ties
 tiger
@@ -1263,6 +1263,7 @@ wet
 where
 whip
 who
+whom
 why
 wife
 will
@@ -1277,7 +1278,6 @@ wreck
 writ
 write
 yard
-yeah
 year
 yeast
 yell

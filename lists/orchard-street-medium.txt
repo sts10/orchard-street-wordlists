@@ -172,7 +172,6 @@ aggregate
 aggression
 aggressive
 agitation
-ago
 agrarian
 agree
 agreed
@@ -214,6 +213,7 @@ alive
 alleged
 allegedly
 allegiance
+alley
 alliance
 alliances
 allied
@@ -326,7 +326,6 @@ anybody
 anymore
 anyone
 anything
-anyway
 anywhere
 apart
 apartment
@@ -349,6 +348,7 @@ appears
 appendix
 appetite
 apple
+apples
 applicable
 applicant
 applicants
@@ -367,7 +367,6 @@ approval
 approve
 approved
 aquatic
-aqueous
 arbitrary
 arc
 arcade
@@ -534,7 +533,6 @@ automotive
 autonomous
 autonomy
 autumn
-auxiliary
 available
 avenue
 average
@@ -622,7 +620,6 @@ baseline
 basement
 basic
 basically
-basilica
 basin
 basis
 basket
@@ -687,6 +684,7 @@ behave
 behavior
 behavioral
 behind
+behold
 being
 beings
 belief
@@ -762,6 +760,7 @@ blanket
 blast
 bleeding
 blend
+bless
 blessed
 blessing
 blew
@@ -827,7 +826,6 @@ bound
 boundaries
 boundary
 bounded
-bourgeois
 bout
 bowl
 bowler
@@ -990,12 +988,12 @@ capped
 caps
 captain
 captained
+captive
 capture
 captured
 capturing
 car
 carbon
-carcinoma
 card
 cardiac
 cardinal
@@ -1066,6 +1064,7 @@ cement
 cemetery
 censorship
 census
+centennial
 center
 centered
 centers
@@ -1133,7 +1132,6 @@ cheek
 cheeks
 cheese
 chef
-chem
 chemical
 chemicals
 chemistry
@@ -1473,7 +1471,6 @@ conscience
 conscious
 consensus
 consent
-consequent
 consider
 considered
 considers
@@ -1751,7 +1748,6 @@ dad
 daddy
 daily
 dairy
-dale
 dam
 damage
 damaged
@@ -1768,6 +1764,7 @@ dangerous
 dangers
 dare
 dared
+daring
 dark
 darker
 darkness
@@ -1839,6 +1836,7 @@ deeds
 deemed
 deep
 deeper
+deepest
 deeply
 deer
 default
@@ -1895,6 +1893,7 @@ demand
 demanded
 demanding
 demands
+dementia
 demise
 demo
 democracy
@@ -1924,6 +1923,7 @@ dependency
 dependent
 depending
 depends
+depict
 depicted
 depicting
 depiction
@@ -2011,6 +2011,7 @@ devices
 devil
 devils
 devised
+devote
 devoted
 devotion
 diabetes
@@ -2075,6 +2076,7 @@ disagree
 disappear
 disaster
 disbanded
+discarded
 discharge
 discharged
 disciples
@@ -2269,6 +2271,7 @@ dye
 dying
 dynamic
 dynamics
+dynamo
 dynasty
 eager
 eagle
@@ -2464,6 +2467,7 @@ entrants
 entries
 entry
 envelope
+envy
 enzyme
 enzymes
 epic
@@ -2862,6 +2866,7 @@ flagship
 flame
 flames
 flank
+flap
 flash
 flat
 flats
@@ -2959,6 +2964,7 @@ fortified
 fortress
 fortunate
 fortune
+fortunes
 forty
 forum
 forward
@@ -3069,7 +3075,6 @@ garage
 garden
 gardens
 garlic
-garnered
 garrison
 gas
 gasoline
@@ -3088,7 +3093,6 @@ gazette
 gear
 gender
 gene
-genera
 general
 generally
 generals
@@ -3135,9 +3139,7 @@ gill
 girl
 girlfriend
 girls
-give
 given
-gives
 giving
 glacier
 glad
@@ -3362,7 +3364,6 @@ helping
 helpless
 helps
 hemisphere
-hence
 hepatic
 hepatitis
 herald
@@ -3594,6 +3595,7 @@ incumbent
 incurred
 indeed
 index
+indexes
 indicate
 indicated
 indicates
@@ -3959,7 +3961,6 @@ learner
 learners
 learning
 learns
-least
 leather
 leave
 leaves
@@ -4189,6 +4190,7 @@ manning
 manor
 manpower
 mansion
+mantle
 manual
 manuscript
 map
@@ -4375,6 +4377,7 @@ minerals
 miners
 mines
 mini
+miniature
 minimal
 minimize
 minimum
@@ -4456,6 +4459,7 @@ month
 monthly
 months
 monument
+monumental
 monuments
 mood
 moon
@@ -4469,6 +4473,7 @@ morocco
 mortal
 mortality
 mortgage
+mosaic
 mosque
 moss
 mostly
@@ -4567,7 +4572,6 @@ negative
 negotiate
 negotiated
 neighbors
-neither
 neon
 nephew
 nerve
@@ -5098,6 +5102,7 @@ plays
 playwright
 plaza
 plea
+pleaded
 please
 pleased
 pleasure
@@ -5523,6 +5528,7 @@ radius
 raiders
 raids
 railroad
+railroads
 railway
 railways
 rainbow
@@ -5718,7 +5724,6 @@ relaxation
 relaxed
 relay
 release
-released
 releases
 releasing
 relegated
@@ -5919,6 +5924,7 @@ rewards
 rhetoric
 rhetorical
 rhythm
+rhythmic
 ribbon
 rich
 rider
@@ -5942,7 +5948,6 @@ rituals
 rivalry
 rivals
 riverside
-roads
 rob
 robbery
 robin
@@ -5960,7 +5965,6 @@ roll
 roller
 rolling
 rolls
-roman
 romance
 romantic
 rookie
@@ -6031,7 +6035,6 @@ salad
 salaries
 salary
 sales
-sally
 salmon
 salon
 salt
@@ -6108,6 +6111,7 @@ scout
 scouting
 scouts
 scrapped
+screamed
 screaming
 screen
 screened
@@ -6253,7 +6257,6 @@ severe
 severely
 severity
 sex
-sexes
 sexual
 sexuality
 shack
@@ -6346,6 +6349,7 @@ sierra
 sigh
 sighed
 signal
+signaling
 signals
 signature
 silence
@@ -6646,9 +6650,6 @@ statistics
 statue
 statues
 status
-statute
-statutes
-statutory
 stay
 stayed
 staying
@@ -6924,7 +6925,6 @@ symptoms
 synagogue
 syndicated
 syndrome
-synod
 synopsis
 syntactic
 syntax
@@ -7110,6 +7110,7 @@ tickets
 tidal
 tide
 tie
+tied
 tier
 tiger
 tigers
@@ -7285,7 +7286,6 @@ truths
 trying
 tube
 tubes
-tucker
 tulip
 tumor
 tumors
@@ -7351,6 +7351,7 @@ unhappy
 unified
 uniform
 uniforms
+unilateral
 unions
 unique
 unit
@@ -7368,6 +7369,7 @@ unnamed
 unofficial
 unpleasant
 unrelated
+unreleased
 unrest
 unstable
 unusual
@@ -7408,6 +7410,7 @@ utmost
 utterly
 vacancy
 vacant
+vacated
 vacation
 vaccine
 vacuum
@@ -7491,6 +7494,7 @@ villagers
 villages
 villain
 vinyl
+violate
 violated
 violation
 violations
@@ -7538,7 +7542,6 @@ voluntary
 volunteer
 volunteers
 vomiting
-vote
 voter
 voters
 votes
@@ -7625,7 +7628,6 @@ weighted
 weights
 welcome
 welcomed
-wellington
 wells
 welsh
 western
@@ -7646,7 +7648,6 @@ wherever
 whilst
 whispered
 white
-whoever
 whole
 wholesale
 wicked
@@ -7751,7 +7752,6 @@ wrong
 wrote
 yacht
 yards
-yeah
 year
 yearly
 years

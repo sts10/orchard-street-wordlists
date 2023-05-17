@@ -468,7 +468,6 @@ gigs
 gill
 gin
 girl
-give
 god
 going
 gold
@@ -619,6 +618,7 @@ knots
 know
 lab
 lace
+lack
 lad
 lam
 lap
@@ -935,7 +935,6 @@ rode
 roe
 role
 roll
-roman
 roof
 room
 rooms
@@ -1117,7 +1116,6 @@ suns
 sure
 surf
 swell
-synod
 tab
 tag
 tags
@@ -1149,6 +1147,7 @@ three
 thus
 tide
 tie
+tied
 tier
 tight
 tile
@@ -1240,6 +1239,7 @@ way
 web
 weed
 week
+weeks
 weep
 weigh
 weld
