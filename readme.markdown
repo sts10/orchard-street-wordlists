@@ -24,11 +24,11 @@ Mean edit distance        : 7.914
 
 Word samples
 ------------
-affectionate delegation surveying dug luminosity peroxide
-corridors compulsion cougars appreciable elite triathlon
-realism pancreas pavilions tormented basic laboring
-request orbit cottage agile defend demos
-aground flee propped blot impurity abandon
+constancy combating sugar invading workable recession
+nickname capitals mocking coliseum archipelago evaporation
+certainly postures beta exit accuse furious
+packaging romances foyer mountain pulls scenery
+phase savage vicinity fumes senator engineer
 ```
 
 ## Orchard Street Medium List
@@ -43,16 +43,17 @@ Length of longest word    : 10 characters (worthwhile)
 Free of prefix words?     : false
 Uniquely decodable?       : true
 Entropy per word          : 12.925 bits
+Efficiency per character  : 1.832 bits
 Above brute force line?   : true
-Mean edit distance        : 6.952
+Mean edit distance        : 6.954
 
 Word samples
 ------------
-oaks rope narrowly surgical government permitted
-residues needed discussed colony servant terminate
-variety chess scandal hundreds publicity instant
-dependency swift offshore listeners definitely prototype
-dreams pregnant insect allowing transit patrol
+sees talking exclusion inequality granite prefer
+faction surgery toll accepts songs unfamiliar
+manifest rulers devils governors flight brutal
+prosecutor lemon reluctant targets penguin brethren
+wade chassis stuck coated sharing imagery
 ```
 
 ## Orchard Street Short Lists
