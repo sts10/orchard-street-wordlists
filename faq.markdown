@@ -20,6 +20,10 @@ To have KeePassXC use one of these wordlists, click on KeePassXC's dice icon to 
 
 That depends on your threat model, so I can't give a general answer. But if I were forced to give a general rule of thumb, I'd say using 6 words from the long or medium lists (e.g. "fig phases telephone cowboys warning lit") and 7 words from a short list (e.g. "robe towed wooded cue hasty cups each") is a safe bet.
 
+## Are any password managers currently using any Orchard Street Wordlists?
+
+[Strongbox](https://strongboxsafe.com/) currently [offers](https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt) the Orchard Street Medium list to users looking to generate passphrases.
+
 ## What's the difference between your Medium list and the EFF "long list"?
 
 They're pretty similar! Both the [EFF's long list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and the Orchard Street Medium List contain exactly 7,776 words. This is so that each word can correspond to the roll of 5 6-sided dice. Both lists are also _uniquely decodable_, which is good for use with passphrase generators. One difference is that the EFF list is uniquely decodable because it has no "prefix words". The Orchard Street Medium List was made uniquely decodable through [a novel process we invented called Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). I'll also note that EFF list's mean word length is every so slightly shorter (by 0.07 characters).
