@@ -851,6 +851,7 @@ port
 porter
 ports
 pose
+post
 pot
 pots
 potter
@@ -1088,7 +1089,6 @@ teeth
 tell
 ten
 tend
-tens
 tent
 term
 terry
