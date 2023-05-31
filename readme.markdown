@@ -56,6 +56,8 @@ prosecutor lemon reluctant targets penguin brethren
 wade chassis stuck coated sharing imagery
 ```
 
+We also have an 8,192-word list, which is optimized for binary computers and their random number generators, called [Orchard Street 8k](lists/orchard-street-8k.txt).
+
 ## Orchard Street Short Lists
 
 [Orchard Street Alpha](lists/orchard-street-alpha.txt) and [Orchard Street QWERTY](lists/orchard-street-qwerty.txt) lists both have 1,296 words and are optimized for inputting resulting passphrases into devices like smart TVs. Each word gives a passphrase an additional 10.34 bits of entropy.
