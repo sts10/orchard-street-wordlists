@@ -56,7 +56,7 @@ prosecutor lemon reluctant targets penguin brethren
 wade chassis stuck coated sharing imagery
 ```
 
-We also have an 8,192-word list, which is optimized for binary computers and their random number generators, called [Orchard Street 8k](lists/orchard-street-8k.txt).
+We also have a list with 8,192 (2<sup>13</sup>) words, which makes it optimized for binary computers and their random number generators, called [Orchard Street 8k](lists/orchard-street-8k.txt).
 
 ## Orchard Street Short Lists
 
