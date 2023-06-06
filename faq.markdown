@@ -22,7 +22,10 @@ That depends on your threat model, so I can't give a general answer. But if I we
 
 ## Are any password managers currently using any Orchard Street Wordlists?
 
-One that I know of is [Strongbox](https://strongboxsafe.com/), which now [offers](https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt) the Orchard Street Medium list to users looking to generate passphrases. If you find other examples, feel free to create an Issue or PR!
+* The [Buttercup password manager](https://buttercup.pw/) [now uses](https://github.com/buttercup/buttercup-generator/pull/18) the Orchard Street 8k list as its passphrase word list. 
+* [Strongbox](https://strongboxsafe.com/) [offers](https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt) the Orchard Street Medium list to users looking to generate passphrases. 
+
+If you find other examples, feel free to create an Issue or PR!
 
 ## What's the difference between your Medium list and the EFF "long list"?
 
