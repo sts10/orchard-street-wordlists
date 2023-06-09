@@ -683,6 +683,7 @@ behave
 behavior
 behavioral
 behind
+behold
 being
 beings
 belief
@@ -3364,7 +3365,6 @@ helping
 helpless
 helps
 hemisphere
-hepatic
 hepatitis
 herald
 herb

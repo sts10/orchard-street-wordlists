@@ -1082,6 +1082,7 @@ carved
 cases
 cash
 casino
+cassette
 casting
 castle
 castles
@@ -3537,7 +3538,6 @@ helpless
 helps
 hemisphere
 hemorrhage
-hepatic
 hepatitis
 herald
 herb
