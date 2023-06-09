@@ -29,7 +29,7 @@ If you find other examples, feel free to create an Issue or PR!
 
 ## What's the difference between your Medium list and the EFF "long list"?
 
-They're pretty similar! Both the [EFF's long list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and the Orchard Street Medium List contain exactly 7,776 words. This is so that each word can correspond to the roll of 5 6-sided dice. Both lists are also _uniquely decodable_, which is good for use with passphrase generators. One difference is that the EFF list is uniquely decodable because it has no "prefix words". The Orchard Street Medium List was made uniquely decodable through [a novel process we invented called Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). I'll also note that EFF list's mean word length is every so slightly shorter (by 0.07 characters).
+They're pretty similar! Both the [EFF's long list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and the Orchard Street Medium List contain exactly 7,776 words. This is so that each word can correspond to the roll of 5 6-sided dice. Both lists are also _uniquely decodable_, which is good for use with passphrase generators. One difference is that the EFF list is uniquely decodable because it has no "prefix words". The Orchard Street Medium List was made uniquely decodable through [a novel process we invented called Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). I'll also note that EFF list's mean word length is ever so slightly shorter (by 0.07 characters).
 
 The EFF list is definitely more well-known and more widely used choice, so it's 100% the less risky choice. But if you're here reading this FAQ, maybe you want to be on the cutting edge...
 
@@ -63,7 +63,7 @@ You can read [this blog post for more information](https://sts10.github.io/2022/
 
 ## I'm creating passphrase-generation software. Can I use one or more of the Orchard Street Wordlists in my code?
 
-Sure! Just be sure to follow the licensing (see Readme).
+Sure! Just be sure to follow the licensing (see readme file).
 
 ## Do I need to use separating punctuation between words in passphrases from Orchard Street Wordlists?
 
@@ -85,3 +85,4 @@ You could use a tool I wrote called [Tidy](https://github.com/sts10/tidy) to mak
 
 - [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists. 
 - [Common Word List Maker](https://github.com/sts10/common_word_list_maker): Scrapes Google Books Ngram data to create a long word list of commonly used words
+- [Wikipedia word frequency generator](https://github.com/IlyaSemenov/wikipedia-word-frequency): Gather word frequencies from Wikipedia articles.
