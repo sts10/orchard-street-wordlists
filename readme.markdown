@@ -20,15 +20,15 @@ Uniquely decodable?       : true
 Entropy per word          : 14.101 bits
 Efficiency per character  : 1.767 bits
 Above brute force line?   : true
-Mean edit distance        : 7.914
+Mean edit distance        : 7.915
 
 Word samples
 ------------
-constancy combating sugar invading workable recession
-nickname capitals mocking coliseum archipelago evaporation
-certainly postures beta exit accuse furious
-packaging romances foyer mountain pulls scenery
-phase savage vicinity fumes senator engineer
+plank billionaire evaluated punched proficiency positioned
+symptom commensurate spit connector misguided royalties
+brokerage losers policy diagram graceful publishing
+successors redesigned companions intrusion alternatives cleaned
+rationalism coupons cosmos clarification translation blaming
 ```
 
 ## Orchard Street Medium List
@@ -49,11 +49,11 @@ Mean edit distance        : 6.954
 
 Word samples
 ------------
-sees talking exclusion inequality granite prefer
-faction surgery toll accepts songs unfamiliar
-manifest rulers devils governors flight brutal
-prosecutor lemon reluctant targets penguin brethren
-wade chassis stuck coated sharing imagery
+highlights capacities spreading clerical declared economy
+slavery artillery realized observe busy orderly
+prompt countless specialty permitting exports uprising
+toll slam operates editions hero cowboys
+spur academy returns seller inhibition magnesium
 ```
 
 We also have a list with 8,192 (2<sup>13</sup>) words, which makes it optimized for binary computers and their random number generators, called [Orchard Street 8k](lists/orchard-street-8k.txt).
