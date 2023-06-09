@@ -1,7 +1,6 @@
 abbot
 abide
 abode
-about
 above
 account
 ache
@@ -18,6 +17,7 @@ aged
 aging
 ago
 agony
+agree
 aide
 aided
 aim
@@ -32,7 +32,7 @@ ants
 app
 apps
 apt
-are
+arm
 art
 ask
 asp
@@ -78,13 +78,13 @@ bays
 bead
 beam
 bean
+beat
 beck
 bed
 beds
 bee
 beech
 beef
-been
 beer
 bees
 beg
@@ -126,6 +126,9 @@ bore
 born
 boss
 both
+bottom
+bound
+bout
 bouts
 bow
 bowl
@@ -156,7 +159,6 @@ cake
 calf
 call
 cam
-came
 camp
 cane
 cannon
@@ -246,6 +248,7 @@ cow
 cows
 creed
 creek
+crew
 crop
 cube
 cue
@@ -288,9 +291,9 @@ deny
 depot
 dept
 depth
+deputy
 dew
 dice
-did
 die
 died
 dig
@@ -364,6 +367,7 @@ ever
 evil
 expo
 face
+faced
 fact
 fade
 fall
@@ -397,9 +401,11 @@ file
 fill
 fin
 find
+fine
 fins
 fir
 fire
+fish
 fist
 fit
 fits
@@ -410,6 +416,7 @@ fled
 flee
 fleet
 flew
+flight
 flint
 flip
 flood
@@ -428,14 +435,12 @@ fonts
 food
 fool
 foot
-for
 fork
 four
 fox
 free
 freed
 frog
-from
 front
 fronts
 frost
@@ -476,7 +481,6 @@ gone
 gong
 good
 gore
-got
 gown
 guide
 gulf
@@ -488,7 +492,6 @@ guy
 guys
 gym
 habit
-had
 hail
 hair
 hale
@@ -499,7 +502,6 @@ hand
 hang
 hangs
 hank
-has
 hasty
 hats
 hay
@@ -519,7 +521,6 @@ him
 hind
 hint
 hints
-hips
 hire
 hired
 hit
@@ -558,10 +559,10 @@ idol
 imam
 indeed
 inn
+inner
 inning
 input
 inputs
-into
 iron
 ivy
 jack
@@ -618,6 +619,7 @@ knots
 know
 lab
 lace
+lack
 lad
 lam
 lap
@@ -639,7 +641,6 @@ lid
 lie
 lied
 life
-light
 like
 liked
 limb
@@ -654,6 +655,7 @@ list
 lists
 lit
 live
+loan
 lobe
 lock
 log
@@ -733,6 +735,7 @@ moss
 most
 moth
 moths
+motion
 motor
 motto
 mound
@@ -740,6 +743,7 @@ mounts
 mouth
 move
 moved
+movie
 much
 mud
 mug
@@ -792,10 +796,10 @@ omit
 once
 onion
 onions
-onto
 open
 opium
 optic
+option
 opus
 ought
 ounce
@@ -816,6 +820,7 @@ pap
 pass
 past
 pat
+path
 pay
 pays
 pea
@@ -994,6 +999,7 @@ shell
 shin
 shiny
 ship
+ships
 shoe
 shook
 shoot
@@ -1013,6 +1019,7 @@ sigh
 sight
 sigma
 sign
+signs
 silk
 sims
 sin
@@ -1042,6 +1049,7 @@ soda
 soil
 sold
 sole
+solo
 some
 song
 songs
@@ -1049,6 +1057,7 @@ sonic
 sons
 soon
 sore
+sort
 soul
 sound
 soup
@@ -1092,6 +1101,7 @@ stony
 stood
 stool
 stop
+stopped
 stops
 store
 stout
@@ -1115,6 +1125,7 @@ sung
 sunk
 sunny
 suns
+super
 sure
 surf
 swell
@@ -1133,9 +1144,6 @@ tea
 tee
 tell
 ten
-than
-that
-the
 then
 thick
 thief
@@ -1146,7 +1154,6 @@ things
 think
 this
 three
-thus
 tide
 tie
 tied
@@ -1171,7 +1178,6 @@ too
 took
 tooth
 topic
-topped
 torn
 tort
 toss
@@ -1198,6 +1204,7 @@ tuned
 turf
 turn
 tutor
+twice
 twin
 two
 type
@@ -1209,8 +1216,6 @@ unit
 units
 unity
 until
-unto
-upon
 upper
 use
 used
@@ -1225,7 +1230,6 @@ vet
 via
 vice
 video
-vie
 view
 vine
 visa
@@ -1241,20 +1245,17 @@ way
 web
 weed
 week
+weeks
 weep
 weigh
 weld
 went
 wept
-were
 west
 wet
 what
-which
 whip
 who
-whom
-why
 wide
 wife
 wight
@@ -1264,8 +1265,8 @@ wind
 wing
 wins
 wipe
+wish
 wit
-with
 woke
 wolf
 woman
@@ -1287,7 +1288,6 @@ yoga
 yoke
 you
 young
-your
 youth
 zinc
 zip
