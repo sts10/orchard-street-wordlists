@@ -290,7 +290,6 @@ dub
 due
 dues
 duet
-duff
 dug
 dull
 duly
@@ -325,6 +324,7 @@ enter
 entry
 envy
 era
+eras
 erase
 error
 essay
@@ -535,7 +535,6 @@ holy
 hood
 hope
 hour
-hours
 how
 hub
 hue
@@ -581,7 +580,6 @@ job
 join
 joint
 joke
-jolly
 joy
 joys
 judge
@@ -730,6 +728,7 @@ mouth
 much
 mud
 muddy
+mug
 mule
 murder
 muse
@@ -851,7 +850,6 @@ port
 porter
 ports
 pose
-post
 pot
 pots
 potter
@@ -972,6 +970,7 @@ says
 scan
 scar
 scare
+scary
 school
 screw
 screws
@@ -1012,6 +1011,7 @@ ship
 shook
 shop
 shot
+shout
 shut
 shy
 sigh
@@ -1178,6 +1178,7 @@ tsar
 tub
 tube
 tug
+tulip
 tuna
 tune
 tuned
@@ -1217,12 +1218,12 @@ verse
 vertex
 vet
 veto
-via
 vie
 view
 wade
 wage
 waged
+wager
 wages
 walk
 wall
@@ -1280,7 +1281,6 @@ write
 yard
 year
 yeast
-yell
 yen
 yet
 yoga

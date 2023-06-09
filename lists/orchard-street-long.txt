@@ -460,6 +460,7 @@ alcohol
 alcoholic
 alcoholics
 alcoholism
+alder
 alderman
 aldermen
 alert
@@ -3441,6 +3442,7 @@ conscription
 consecrated
 consecration
 consecutive
+consecutively
 consensual
 consensus
 consent
@@ -4074,6 +4076,7 @@ customize
 customized
 customs
 cutoff
+cuts
 cutter
 cutting
 cuttings
@@ -5406,6 +5409,7 @@ elders
 eldest
 electoral
 electorate
+electors
 electric
 electrical
 electrically
@@ -5650,7 +5654,6 @@ engulfed
 enhance
 enhanced
 enhancement
-enhancements
 enhances
 enhancing
 enigma
@@ -7045,6 +7048,7 @@ gearbox
 geared
 gears
 gecko
+geek
 geese
 gelatin
 gem
@@ -7485,6 +7489,7 @@ handball
 handbook
 handed
 handful
+handgun
 handheld
 handicap
 handicaps
@@ -7888,7 +7893,6 @@ hub
 hubs
 huddled
 hue
-hues
 hug
 huge
 hugely
@@ -9241,6 +9245,7 @@ leftist
 leg
 legacy
 legality
+legalization
 legend
 legendary
 legends
@@ -9605,7 +9610,6 @@ malignant
 malls
 malnutrition
 malpractice
-malt
 mama
 mamma
 mammal
@@ -9709,7 +9713,6 @@ marketed
 marketers
 marketing
 marketplace
-marking
 markings
 markup
 marlins
@@ -9974,6 +9977,7 @@ metrics
 metro
 metropolis
 metropolitan
+mezzanine
 mica
 mice
 mickey
@@ -10349,6 +10353,7 @@ musicals
 musician
 musicians
 musicologist
+musk
 mustache
 mustang
 mustangs
@@ -10640,7 +10645,6 @@ obliterated
 oblivion
 oblivious
 oblong
-oboe
 obscene
 obscenity
 obscure
@@ -11088,7 +11092,6 @@ paperwork
 papyrus
 par
 parables
-parabolic
 parachute
 parade
 parades
@@ -12075,7 +12078,6 @@ presuppositions
 pretend
 pretended
 pretending
-pretends
 pretense
 pretensions
 pretext
@@ -13106,6 +13108,7 @@ remark
 remarkable
 remarkably
 remarked
+remarking
 remarks
 remarried
 rematch
@@ -13479,7 +13482,6 @@ reviving
 revocation
 revoked
 revolt
-revolted
 revolts
 revolution
 revolutionaries
@@ -14018,7 +14020,6 @@ selective
 selectively
 selectivity
 selector
-selectors
 selects
 selenium
 selfish
@@ -14274,7 +14275,6 @@ shortage
 shortages
 shortcomings
 shortcut
-shortcuts
 shorten
 shortened
 shortening

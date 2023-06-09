@@ -599,6 +599,7 @@ badminton
 bag
 bagel
 bags
+bail
 baker
 baking
 balance
@@ -1077,12 +1078,10 @@ cars
 cart
 cartoon
 cartoons
-cartridge
 carved
 cases
 cash
 casino
-cassette
 casting
 castle
 castles
@@ -1133,6 +1132,7 @@ cents
 centuries
 century
 ceramic
+ceramics
 cerebral
 ceremonial
 ceremonies
@@ -1244,7 +1244,6 @@ circuits
 circular
 circus
 citadel
-citations
 cite
 cites
 cities
@@ -4488,6 +4487,7 @@ maybe
 mayo
 mayor
 mayoral
+mayors
 meadows
 meal
 meals
@@ -4589,6 +4589,7 @@ midway
 might
 mighty
 mild
+militant
 military
 militia
 milk
@@ -6790,7 +6791,6 @@ smoothly
 snail
 snails
 snake
-snakes
 snap
 snapped
 snow
@@ -6948,6 +6948,7 @@ spy
 squad
 squadron
 squadrons
+squads
 square
 squares
 stability
@@ -8061,7 +8062,6 @@ white
 whole
 wholesale
 wicked
-wicket
 wickets
 widely
 wider

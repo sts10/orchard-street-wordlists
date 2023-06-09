@@ -51,6 +51,7 @@ backed
 bacon
 bad
 bag
+bagel
 bags
 bail
 bait
@@ -326,7 +327,6 @@ dry
 dub
 duck
 due
-duff
 dug
 duke
 dull
@@ -397,7 +397,6 @@ file
 fill
 fin
 find
-fine
 fins
 fir
 fire
@@ -520,6 +519,7 @@ him
 hind
 hint
 hints
+hips
 hire
 hired
 hit
@@ -618,7 +618,6 @@ knots
 know
 lab
 lace
-lack
 lad
 lam
 lap
@@ -686,6 +685,7 @@ make
 male
 mama
 manga
+mango
 manor
 many
 map
@@ -740,9 +740,9 @@ mounts
 mouth
 move
 moved
-movie
 much
 mud
+mug
 mule
 music
 must
@@ -909,6 +909,7 @@ reds
 reef
 reel
 refer
+relic
 rent
 rest
 rib
@@ -985,6 +986,7 @@ seek
 self
 sell
 sex
+shack
 shade
 she
 shed
@@ -992,7 +994,6 @@ shell
 shin
 shiny
 ship
-ships
 shoe
 shook
 shoot
@@ -1025,6 +1026,7 @@ six
 ski
 skin
 skip
+sled
 small
 smash
 smell
@@ -1047,7 +1049,6 @@ sonic
 sons
 soon
 sore
-sort
 soul
 sound
 soup
@@ -1224,6 +1225,7 @@ vet
 via
 vice
 video
+vie
 view
 vine
 visa
@@ -1239,7 +1241,6 @@ way
 web
 weed
 week
-weeks
 weep
 weigh
 weld
@@ -1282,7 +1283,6 @@ wow
 writ
 wrong
 yahoo
-yell
 yoga
 yoke
 you

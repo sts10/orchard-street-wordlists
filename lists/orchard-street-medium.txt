@@ -213,7 +213,6 @@ alive
 alleged
 allegedly
 allegiance
-alley
 alliance
 alliances
 allied
@@ -684,7 +683,6 @@ behave
 behavior
 behavioral
 behind
-behold
 being
 beings
 belief
@@ -746,6 +744,7 @@ birds
 birth
 birthday
 birthplace
+births
 bishops
 bite
 bits
@@ -2451,6 +2450,7 @@ enough
 enrolled
 enrollment
 ensemble
+enslaved
 ensuing
 ensure
 ensuring
@@ -4377,7 +4377,6 @@ minerals
 miners
 mines
 mini
-miniature
 minimal
 minimize
 minimum
@@ -5528,7 +5527,6 @@ radius
 raiders
 raids
 railroad
-railroads
 railway
 railways
 rainbow
@@ -5948,6 +5946,7 @@ rituals
 rivalry
 rivals
 riverside
+roads
 rob
 robbery
 robin
@@ -6042,6 +6041,7 @@ salvation
 sample
 samples
 sampling
+sanctioned
 sanctions
 sanctuary
 sand
