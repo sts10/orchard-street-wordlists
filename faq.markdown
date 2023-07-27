@@ -27,7 +27,7 @@ That depends on your threat model, so I can't give a general answer. But if I we
 
 If you find other examples, feel free to create an Issue or PR!
 
-## What's the difference between your Medium list and the EFF "long list"?
+## What's the difference between the Orchard Street Medium list and the EFF "long list"? They both have 7,776 words...
 
 They're pretty similar! Both the [EFF's long list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and the Orchard Street Medium List contain exactly 7,776 words. This is so that each word can correspond to the roll of 5 6-sided dice. Both lists are also _uniquely decodable_, which is good for use with passphrase generators. One difference is that the EFF list is uniquely decodable because it has no "prefix words". The Orchard Street Medium List was made uniquely decodable through [a novel process we invented called Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). I'll also note that EFF list's mean word length is ever so slightly shorter (by 0.07 characters).
 
@@ -67,7 +67,7 @@ Sure! Just be sure to follow the licensing (see readme file).
 
 ## Do I need to use separating punctuation between words in passphrases from Orchard Street Wordlists?
 
-No. All Orchard Street Wordlists are uniquely decodable, which means words from any one of them can be safely combined in a passphrase _without_ punctuation between the words, e.g. "thrillerconcernclearedevidencestretchapple". Though there's nothing wrong with putting a space, hyphen, underscore, etc. between the words if you prefer.
+No. All Orchard Street Wordlists are **uniquely decodable**, which means words from any one of them can be safely combined in a passphrase _without_ punctuation between the words, e.g. "thrillerconcernclearedevidencestretchapple". Though there's nothing wrong with putting a space, hyphen, underscore, etc. between the words if you prefer.
 
 ## How were the Orchard Street Wordlists created?
 
@@ -77,12 +77,14 @@ The lists were made uniquely decodable using a process based on [the Sardinas–
 
 ### If I want a really long list, can I combine all of the Orchard Street Wordlists into one super long list?
 
-I would NOT recommend doing this. The reason is that, even if you removed duplicate words, the resulting list would **almost certainly not be uniquely decodable**. 
+I would NOT recommend doing this. The reason is that, even if you removed duplicate words, the resulting list would **almost certainly not be uniquely decodable**, an important quality.
 
-You could use a tool I wrote called [Tidy](https://github.com/sts10/tidy) to make cuts to the resulting list until it is uniquely decodable, or you could consider [this 40,000-word, uniquely decodable list I created](https://github.com/sts10/generated-wordlists/blob/main/lists/experimental/ud2.txt) as part of another project.
+Though if you do feel the need to edit an existing list or make you're own word list, you're welcome to use a tool I wrote called [Tidy](https://github.com/sts10/tidy), which can make lists uniquely decodable using a variety of methods, including Schlinkert pruning. 
+
+Lastly, if you want a huge uniquely decodable list, you can try [this 40,000-word list I created](https://github.com/sts10/generated-wordlists/blob/main/lists/experimental/ud2.txt) as part of another project.
 
 ### What tools were used to create the Orchard Street Wordlists?
 
-- [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists. 
+- [Tidy](https://github.com/sts10/tidy): A command-line utility for editing word lists that I wrote.
 - [Common Word List Maker](https://github.com/sts10/common_word_list_maker): Scrapes Google Books Ngram data to create a long word list of commonly used words
 - [Wikipedia word frequency generator](https://github.com/IlyaSemenov/wikipedia-word-frequency): Gather word frequencies from Wikipedia articles.
