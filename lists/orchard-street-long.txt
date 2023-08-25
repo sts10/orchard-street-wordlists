@@ -3535,7 +3535,6 @@ consuming
 consummate
 consummation
 consumption
-cont
 contact
 contacted
 contacting
@@ -4075,6 +4074,7 @@ customize
 customized
 customs
 cutoff
+cuts
 cutter
 cutting
 cuttings
@@ -11090,7 +11090,6 @@ paperwork
 papyrus
 par
 parables
-parabolic
 parachute
 parade
 parades
@@ -13583,6 +13582,8 @@ rods
 roe
 rogue
 roles
+roller
+rollers
 rolls
 roman
 romance
@@ -14274,7 +14275,6 @@ shortage
 shortages
 shortcomings
 shortcut
-shortcuts
 shorten
 shortened
 shortening

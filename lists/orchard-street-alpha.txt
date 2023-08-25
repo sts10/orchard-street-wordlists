@@ -107,6 +107,7 @@ bird
 bit
 bits
 blew
+boat
 bog
 boil
 bold
@@ -221,7 +222,6 @@ comic
 comm
 common
 cone
-cont
 cook
 cooked
 cool
@@ -816,7 +816,6 @@ pain
 pal
 pan
 pans
-pap
 pass
 past
 pat
@@ -972,6 +971,7 @@ said
 sail
 saint
 sake
+sale
 same
 sand
 sang
