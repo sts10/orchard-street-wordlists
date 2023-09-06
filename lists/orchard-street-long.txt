@@ -4074,7 +4074,6 @@ customize
 customized
 customs
 cutoff
-cuts
 cutter
 cutting
 cuttings
@@ -8880,7 +8879,6 @@ isotope
 isotopes
 isotopic
 isotropic
-issuance
 issuing
 isthmus
 italics
@@ -11090,6 +11088,7 @@ paperwork
 papyrus
 par
 parables
+parabolic
 parachute
 parade
 parades
@@ -14275,6 +14274,7 @@ shortage
 shortages
 shortcomings
 shortcut
+shortcuts
 shorten
 shortened
 shortening
