@@ -7890,6 +7890,7 @@ hub
 hubs
 huddled
 hue
+hues
 hug
 huge
 hugely
@@ -12317,7 +12318,6 @@ prophet
 prophetic
 prophets
 prophylactic
-prophylaxis
 proponent
 proponents
 proportion
