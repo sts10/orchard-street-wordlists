@@ -56,7 +56,9 @@ toll slam operates editions hero cowboys
 spur academy returns seller inhibition magnesium
 ```
 
-We also have a list with 8,192 (2<sup>13</sup>) words, which makes it optimized for binary computers and their random number generators, called [Orchard Street 8k](lists/orchard-street-8k.txt).
+This list is [an option](https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt) for users of [Strongbox password manager](https://strongboxsafe.com/). 
+
+We also have a list with 8,192 (2<sup>13</sup>) words, optimized for binary computers and their random number generators, called [Orchard Street 8k](lists/orchard-street-8k.txt). This list is [used](https://github.com/buttercup/buttercup-generator/pull/18) by [the Buttercup password manager](https://buttercup.pw/).
 
 ## Orchard Street Short Lists
 
