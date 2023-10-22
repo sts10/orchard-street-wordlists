@@ -25,7 +25,9 @@ If you find other examples, feel free to create an Issue or PR!
 
 ## Do you recommend a CLI tool for generating passphrases?
 
-You could probably do worse than [Micah Lee's passphraseme tool](https://github.com/micahflee/passphraseme). Use the `-d` / `--dictionary` option to use an Orchard Street Wordlist file.
+I created [a passphrase generator that uses the Orchard Street Wordlists that I call Phraze](https://github.com/sts10/phraze).
+
+If you don't trust me or like Rust, there's also [Micah Lee's passphraseme tool](https://github.com/micahflee/passphraseme). Use the `-d` / `--dictionary` option to use an Orchard Street Wordlist file.
 
 ## Do I need to use separating punctuation between words in passphrases from Orchard Street Wordlists?
 
