@@ -1902,7 +1902,6 @@ bounced
 bouncing
 boundaries
 boundary
-bounded
 bounding
 boundless
 bounty
@@ -5406,7 +5405,6 @@ elders
 eldest
 electoral
 electorate
-electors
 electric
 electrical
 electrically
@@ -9685,6 +9683,7 @@ mapping
 maps
 marathon
 marble
+marbles
 march
 marched
 marches
@@ -12755,6 +12754,7 @@ rebels
 rebirth
 reborn
 rebound
+rebounded
 rebounds
 rebuild
 rebuilding
@@ -12909,7 +12909,6 @@ referenced
 referencing
 referendum
 referendums
-referent
 referral
 referrals
 refine
@@ -14019,6 +14018,7 @@ selective
 selectively
 selectivity
 selector
+selectors
 selects
 selenium
 selfish
