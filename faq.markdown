@@ -2,7 +2,7 @@
 
 ## How can I use dice to create a passphrase?
 
-I'd point you to [the EFF's guide on how to do this](https://www.eff.org/dice) and [this article by Micah Lee](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/). Note that you will have to use either the Orchard Street Medium List or one of the Short Lists.
+I'd point you to [the EFF's guide on how to do this](https://www.eff.org/dice) and [this article by Micah Lee](https://theintercept.com/2015/03/26/passphrases-can-memorize-attackers-cant-guess/). Note that you will have to use either the Orchard Street Diceware List or one of the Short Lists.
 
 ## Can I have my password manager use an Orchard Street Wordlist?
 
@@ -18,8 +18,8 @@ That depends on your threat model, so I can't give a general answer. But if I we
 
 ## Are any password managers currently using any Orchard Street Wordlists?
 
-* The [Buttercup password manager](https://buttercup.pw/) [now uses](https://github.com/buttercup/buttercup-generator/pull/18) the Orchard Street 8k list as its passphrase word list. 
-* [Strongbox](https://strongboxsafe.com/) [offers](https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt) the Orchard Street Medium list to users looking to generate passphrases. 
+* The [Buttercup password manager](https://buttercup.pw/) [now uses](https://github.com/buttercup/buttercup-generator/pull/18) the Orchard Street Medium list as its passphrase word list. 
+* [Strongbox](https://strongboxsafe.com/) [offers](https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-diceware.txt) the Orchard Street Diceware list to users looking to generate passphrases. 
 
 If you find other examples, feel free to create an Issue or PR!
 
@@ -33,9 +33,9 @@ If you don't trust me or like Rust, there's also [Micah Lee's passphraseme tool]
 
 No. All Orchard Street Wordlists are **uniquely decodable**, which means words from any one of them can be safely combined in a passphrase _without_ punctuation between the words, e.g. "thrillerconcernclearedevidencestretchapple". Though there's nothing wrong with putting a space, hyphen, underscore, etc. between the words if you prefer.
 
-## What's the difference between the Orchard Street Medium list and the EFF "long list"? They both have 7,776 words...
+## What's the difference between the Orchard Street Diceware List and the EFF "long list"? They both have 7,776 words...
 
-They're pretty similar! Both the [EFF's long list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and the Orchard Street Medium List contain exactly 7,776 words. This is so that each word can correspond to the roll of 5 6-sided dice. Both lists are also _uniquely decodable_, which is good for use with passphrase generators. One difference is that the EFF list is uniquely decodable because it has no "prefix words". The Orchard Street Medium List was made uniquely decodable through [a novel process I invented called Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). I'll also note that EFF list's mean word length is ever so slightly shorter (by 0.07 characters).
+They're pretty similar! Both the [EFF's long list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and the Orchard Street Diceware List contain exactly 7,776 words. This is so that each word can correspond to the roll of 5 6-sided dice. Both lists are also _uniquely decodable_, which is good for use with passphrase generators. One difference is that the EFF list is uniquely decodable because it has no "prefix words". The Orchard Street Diceware List was made uniquely decodable through [a novel process I invented called Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html). I'll also note that EFF list's mean word length is ever so slightly shorter (by 0.07 characters).
 
 The EFF list is definitely more well-known and more widely used choice, so it's 100% the less risky choice. But if you're here reading this FAQ, maybe you want to be on the cutting edge...
 
