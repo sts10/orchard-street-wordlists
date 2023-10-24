@@ -31,9 +31,37 @@ successors redesigned companions intrusion alternatives cleaned
 rationalism coupons cosmos clarification translation blaming
 ```
 
+
 ## Orchard Street Medium List
 
-The [Orchard Street Medium List](lists/orchard-street-medium.txt) is our version of the classic Diceware list. 7,776 words gives a traditional 12.925 bits of entropy per word, same as [the EFF long word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases). Also available [with corresponding dice roll numbers prepended](lists/orchard-street-medium-dice.txt) (when using dice to create a passphrase, we recommend you follow [EFF's instructions for creating a passphrase](https://www.eff.org/dice)).
+The [Orchard Street Medium List](lists/orchard-street-medium.txt) has 8,192 (2<sup>13</sup>) words. This length is optimized for binary computers and their random number generators. It gives a nice round 13.00 bits of entropy per word, which makes entropy calculations a bit easier.  
+
+```text
+List length               : 8192 words
+Mean word length          : 7.07 characters
+Length of shortest word   : 3 characters (add)
+Length of longest word    : 10 characters (worthwhile)
+Free of prefix words?     : false
+Uniquely decodable?       : true
+Entropy per word          : 13.000 bits
+Efficiency per character  : 1.839 bits
+Above brute force line?   : true
+Mean edit distance        : 6.966
+
+Word samples
+------------
+adding pilots maximal website opponent attraction
+dispatched confirms chapter eagle brains arising
+brethren nations palms vaccine relocation basis
+motorway tidal jewelry warn alleged courtesy
+impacts nature gauge quartz provisions exam
+```
+
+This list is [used](https://github.com/buttercup/buttercup-generator/pull/18) by [the Buttercup password manager](https://buttercup.pw/).
+
+## Orchard Street Diceware List
+
+The [Orchard Street Diceware List](lists/orchard-street-diceware.txt) is our version of the classic Diceware list. 7,776 words gives a traditional 12.925 bits of entropy per word, same as [the EFF long word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases). This list is also available [with corresponding dice roll numbers prepended](lists/orchard-street-diceware-dice.txt), making it easy to use dice create a passphrase (here are the [EFF's instructions for creating a passphrase with dice](https://www.eff.org/dice)).
 
 ```text
 List length               : 7776 words
@@ -49,16 +77,14 @@ Mean edit distance        : 6.954
 
 Word samples
 ------------
-highlights capacities spreading clerical declared economy
-slavery artillery realized observe busy orderly
-prompt countless specialty permitting exports uprising
-toll slam operates editions hero cowboys
-spur academy returns seller inhibition magnesium
+believing drawing advocate mechanism slaves panel
+lecturer institutes encourages assists rovers injected
+checked liberals thirteen posting frigate mayo
+monitored ruler mean renewal liquid requiring
+polished cardiac injuries challenge coherence legs
 ```
 
 This list is [an option](https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt) for users of [Strongbox password manager](https://strongboxsafe.com/). 
-
-We also have a list with 8,192 (2<sup>13</sup>) words, optimized for binary computers and their random number generators, called [Orchard Street 8k](lists/orchard-street-8k.txt). This list is [used](https://github.com/buttercup/buttercup-generator/pull/18) by [the Buttercup password manager](https://buttercup.pw/).
 
 ## Orchard Street Short Lists
 
