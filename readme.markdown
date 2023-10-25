@@ -34,7 +34,7 @@ rationalism coupons cosmos clarification translation blaming
 
 ## Orchard Street Medium List
 
-The [Orchard Street Medium List](lists/orchard-street-medium.txt) has 8,192 (2<sup>13</sup>) words. This length is optimized for binary computers and their random number generators. It gives a nice round 13.00 bits of entropy per word, which makes entropy calculations a bit easier.  
+The [Orchard Street Medium List](lists/orchard-street-medium.txt) has 8,192 (2<sup>13</sup>) words. This length is optimized for binary computers and their random number generators. It gives a nice round 13.00 bits of entropy per word, which makes entropy calculations a bit easier for us humans.
 
 ```text
 List length               : 8192 words
@@ -61,7 +61,7 @@ This list is [used](https://github.com/buttercup/buttercup-generator/pull/18) by
 
 ## Orchard Street Diceware List
 
-The [Orchard Street Diceware List](lists/orchard-street-diceware.txt) is our version of the classic Diceware list. With this list, you can [use dice to create a secure passphrase](https://www.eff.org/dice)). This list's 7,776 words gives a traditional 12.925 bits of entropy per word, same as [the EFF long word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases). 
+The [Orchard Street Diceware List](lists/orchard-street-diceware.txt) is our version of the classic Diceware list. With this list, you can [use dice to create a secure passphrase](https://www.eff.org/dice)). This list's 7,776 words gives a traditional 12.925 bits of entropy per word, same as [the EFF long word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 
 This list is also available [without corresponding dice roll numbers prepended](lists/orchard-street-diceware-clean.txt).
 
@@ -86,7 +86,7 @@ monitored ruler mean renewal liquid requiring
 polished cardiac injuries challenge coherence legs
 ```
 
-This list is [an option](https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt) for users of [Strongbox password manager](https://strongboxsafe.com/). 
+This list is [an option](https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt) for users of [Strongbox password manager](https://strongboxsafe.com/).
 
 ## Orchard Street Short Lists
 
