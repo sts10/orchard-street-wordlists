@@ -2,7 +2,10 @@
 
 Fresh wordlists for all your passphrase-creation needs. Use these wordlists to create strong, secure passphrases, either [with dice](https://www.eff.org/dice) or a password manager/generator.
 
-All of the wordlists included in this repository are **uniquely decodable**, meaning words from any one of these lists can be safely combined without word separators; for example: "sharkhealsetupturnedphasespy". (If this passphrase came from a uniquely decodable word list, it could **only** be "decoded" one way.)
+* Based on common words found in Wikipedia and Google Books
+* Uniquely decodable, and thus safe to combine words without a delimiter
+* Free of profane words
+* Available in a variety lengths for variety of uses
 
 🛠️  These lists are still under construction Feel free to download a (static) copy of the lists as they are, download the latest release, or fork this repository at any time if you require a static, unchanging list. See licensing information below.
 
