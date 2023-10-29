@@ -37,9 +37,11 @@ No. All Orchard Street Wordlists are **uniquely decodable**, which means words f
 
 They're pretty similar! Both the [EFF's long list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases) and the Orchard Street Diceware List contain exactly 7,776 words. This is so that each word can correspond to the roll of 5 6-sided dice. Both lists are also _uniquely decodable_, which means passphrases from them don't need separators between words.
 
-One difference is that the EFF list is uniquely decodable because it has no "prefix words". The Orchard Street Diceware List was made uniquely decodable through [a novel process I invented called Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) (and thus, the Orchard Street Diceware List does have prefix words in it). I'll also note that EFF list's mean word length is ever so slightly shorter (by 0.07 characters). Lastly, the EFF list does has some weird words, like "grope", "gonad", "ecard", and "footsie", plus some hyphenated words like "drop-down" and "yo-yo".
+One difference is that the EFF list is uniquely decodable because it has no "prefix words". The Orchard Street Diceware List was made uniquely decodable through [a novel process I invented called Schlinkert pruning](https://sts10.github.io/2022/08/12/efficiently-pruning-until-uniquely-decodable.html) (and thus, the Orchard Street Diceware List does have prefix words in it). I'll also note that EFF list's mean word length is ever so slightly shorter (by 0.07 characters). 
 
-The EFF list is definitely more well-known and the more widely used choice, so it's 100% the less risky choice. But if you're here reading this FAQ, maybe you want to be on the cutting edge...
+Lastly, the EFF list does include some weird words, like "grope", "gonad", "ecard", and "footsie", some hyphenated words like "drop-down" and "yo-yo", plus some Apple device names ("ipad", "iphone", "ipod").
+
+All that said, the EFF list is definitely more well-known and the more widely used choice, so it's the less risky choice. But if you're here reading this FAQ, maybe you want to try new things...
 
 ## I'm creating a passphrase I know I'll frequently be entering into a smart TV or video game console. Which list should I use?
 
