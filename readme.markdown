@@ -2,12 +2,12 @@
 
 Fresh wordlists for all your passphrase-creation needs. Use these wordlists to create strong, secure passphrases, either [with dice](https://www.eff.org/dice) or a password manager/generator.
 
-* Based on common words found in Wikipedia and Google Books
-* Uniquely decodable, and thus safe to combine words without a delimiter
-* Free of profane words
-* Available in a variety lengths for variety of uses
+* Made up of common words found in (English) Wikipedia and Google Books
+* Uniquely decodable, and thus safe to combine words in passphrases without a delimiter
+* Free of profane words, abbreviations, and British spellings
+* Available in a variety lengths for different use-cases
 
-🛠️  These lists are still under construction Feel free to download a (static) copy of the lists as they are, download the latest release, or fork this repository at any time if you require a static, unchanging list. See licensing information below.
+NOTE: These lists are edited frequently. If you want a static, unchanging copy of any of the word lists, feel free to download the lists as they are currently, download the latest tag/release, or fork this repository at any time. See licensing information below.
 
 ## Orchard Street Long List
 
