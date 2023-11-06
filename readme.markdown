@@ -97,6 +97,51 @@ This list is [an option](https://github.com/strongbox-password-safe/Strongbox/bl
 
 The difference between these two lists are which **keyboard layout** they are optimized for. Use the Alpha list if your device's keyboard is laid out alphabetically; use the QWERTY list if it is closer to [the QWERTY layout](https://en.wikipedia.org/wiki/QWERTY).
 
+### Orchard Street Alpha list
+
+```text
+List length               : 1296 words
+Mean word length          : 4.12 characters
+Length of shortest word   : 3 characters (add)
+Length of longest word    : 7 characters (stopped)
+Free of prefix words?     : false
+Uniquely decodable?       : true
+Entropy per word          : 10.340 bits
+Efficiency per character  : 2.509 bits
+Above brute force line?   : true
+Mean edit distance        : 4.043
+
+Word samples
+------------
+deity jazz cad bay beg lest
+fees kind fell sell toys shoots
+hints new stops food tell ideas
+toad died must road net feet
+die sold leg done peer tour
+```
+
+### Orchard Street QWERTY List
+```text
+List length               : 1296 words
+Mean word length          : 4.24 characters
+Length of shortest word   : 3 characters (add)
+Length of longest word    : 8 characters (referred)
+Free of prefix words?     : false
+Uniquely decodable?       : true
+Entropy per word          : 10.340 bits
+Efficiency per character  : 2.441 bits
+Above brute force line?   : true
+Mean edit distance        : 4.170
+
+Word samples
+------------
+pine mod polo egg three whip
+zen ties cadet wars sweat tier
+unity jam tire egg idea hull
+sent kiss open fife reader will
+mute mecca drugs rent turn den
+```
+
 For more information, see [this GitHub repo](https://github.com/sts10/remote-words) and/or [this blog post](https://sts10.github.io/2022/10/24/a-good-netflix-password.html).
 
 ## FAQ
