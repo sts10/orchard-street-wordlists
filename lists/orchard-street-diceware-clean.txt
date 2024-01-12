@@ -10,6 +10,7 @@ aboard
 abolished
 abolition
 aboriginal
+abortion
 above
 abroad
 abruptly
@@ -24,6 +25,7 @@ abstract
 absurd
 abundance
 abundant
+abuse
 abused
 academic
 academics
@@ -347,7 +349,6 @@ appears
 appendix
 appetite
 apple
-apples
 applicable
 applicant
 applicants
@@ -789,6 +790,8 @@ boiling
 bold
 bomb
 bomber
+bombers
+bombing
 bombs
 bond
 bonding
@@ -1835,7 +1838,6 @@ deeds
 deemed
 deep
 deeper
-deepest
 deeply
 deer
 default
@@ -2270,7 +2272,6 @@ dye
 dying
 dynamic
 dynamics
-dynamo
 dynasty
 eager
 eagle
@@ -2487,6 +2488,7 @@ equivalent
 erect
 erected
 erosion
+erotic
 errors
 escape
 escaped
@@ -2509,6 +2511,7 @@ eternal
 eternity
 ethical
 ethics
+ethnic
 ethnicity
 etymology
 euro
@@ -3593,7 +3596,6 @@ incumbent
 incurred
 indeed
 index
-indexes
 indicate
 indicated
 indicates
@@ -4470,7 +4472,6 @@ morocco
 mortal
 mortality
 mortgage
-mosaic
 mosque
 moss
 mostly
@@ -5720,6 +5721,7 @@ relaxation
 relaxed
 relay
 release
+released
 releases
 releasing
 relegated
@@ -7152,6 +7154,7 @@ topics
 torn
 tornado
 torpedo
+torture
 tossed
 total
 totally
@@ -7368,7 +7371,6 @@ unnamed
 unofficial
 unpleasant
 unrelated
-unreleased
 unrest
 unstable
 unusual
@@ -7410,7 +7412,6 @@ utmost
 utterly
 vacancy
 vacant
-vacated
 vacation
 vaccine
 vacuum
@@ -7494,7 +7495,6 @@ villagers
 villages
 villain
 vinyl
-violate
 violated
 violation
 violations

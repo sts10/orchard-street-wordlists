@@ -10,6 +10,7 @@ aboard
 abolished
 abolition
 aboriginal
+abortion
 above
 abroad
 abruptly
@@ -24,6 +25,7 @@ abstract
 absurd
 abundance
 abundant
+abuse
 abused
 academia
 academic
@@ -830,6 +832,8 @@ bold
 bolt
 bomb
 bomber
+bombers
+bombing
 bombs
 bond
 bonding
@@ -1050,7 +1054,6 @@ captured
 capturing
 car
 carbon
-carbonate
 card
 cardiac
 cardinal
@@ -1584,7 +1587,6 @@ containers
 containing
 contains
 contempt
-contend
 content
 contention
 contents
@@ -1780,7 +1782,6 @@ cruelty
 cruise
 cruiser
 crusade
-crush
 crushed
 crust
 cry
@@ -2616,6 +2617,7 @@ equivalent
 erect
 erected
 erosion
+erotic
 errors
 escape
 escaped
@@ -2641,6 +2643,7 @@ eternity
 ethic
 ethical
 ethics
+ethnic
 ethnicity
 etymology
 euro
@@ -2870,6 +2873,7 @@ faster
 fastest
 fat
 fatal
+fate
 father
 fathers
 fatigue
@@ -3340,7 +3344,6 @@ governing
 government
 governor
 governors
-gown
 grab
 grabbed
 grace
@@ -3714,7 +3717,6 @@ immense
 immigrant
 immigrants
 immigrated
-imminent
 immune
 immunity
 impact
@@ -5850,7 +5852,6 @@ rare
 rarely
 rat
 rather
-ratified
 ratings
 ratio
 rationale
@@ -5948,7 +5949,6 @@ referee
 referenced
 references
 referendum
-referral
 referring
 refers
 refined
@@ -7174,7 +7174,6 @@ suitable
 suite
 suited
 suits
-sulfate
 sulfur
 sultan
 sum
@@ -7528,6 +7527,7 @@ topics
 torn
 tornado
 torpedo
+torture
 tossed
 total
 totally

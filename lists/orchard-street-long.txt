@@ -28,6 +28,9 @@ abolitionist
 abolitionists
 aboriginal
 aborigines
+aborted
+abortion
+abortions
 abound
 above
 abrasive
@@ -57,6 +60,7 @@ absurdity
 abundance
 abundant
 abundantly
+abuse
 abused
 abuses
 abusing
@@ -216,6 +220,7 @@ adapter
 adapting
 adaptive
 add
+addict
 addicted
 addiction
 addictive
@@ -588,7 +593,6 @@ ambulance
 ambulatory
 ambush
 ambushed
-amen
 amenable
 amend
 amended
@@ -1840,6 +1844,8 @@ bombardier
 bombardment
 bombed
 bomber
+bombers
+bombing
 bombings
 bombs
 bond
@@ -2138,7 +2144,6 @@ bunk
 bunker
 bunkers
 bunny
-buoyancy
 burden
 burdened
 burdens
@@ -4396,7 +4401,6 @@ denial
 denied
 denies
 denomination
-denominational
 denominations
 denominator
 denote
@@ -4883,7 +4887,6 @@ dismal
 dismantled
 dismantling
 dismay
-dismayed
 dismiss
 dismissal
 dismissed
@@ -5792,6 +5795,7 @@ erect
 erected
 eroded
 erosion
+erotic
 err
 errand
 erratic
@@ -5851,6 +5855,7 @@ ether
 ethic
 ethically
 ethics
+ethnic
 ethnically
 ethnicity
 ethnology
@@ -6738,7 +6743,6 @@ forgotten
 forks
 formaldehyde
 formalism
-formalities
 formality
 formalized
 format
@@ -7394,6 +7398,7 @@ growing
 growled
 grown
 grows
+growth
 grunted
 guarantee
 guaranteed
@@ -8006,6 +8011,7 @@ ideologies
 ideology
 idiom
 idiosyncratic
+idiot
 idle
 idleness
 idol
@@ -8205,6 +8211,7 @@ incapacity
 incarcerated
 incarceration
 incarnate
+incarnation
 incarnations
 incense
 incentive
@@ -8454,7 +8461,6 @@ initiative
 initiatives
 inject
 injected
-injecting
 injection
 injections
 injunction
@@ -9121,7 +9127,6 @@ lambda
 lambs
 lament
 lamented
-laminated
 lamps
 lancers
 lancet
@@ -10116,7 +10121,6 @@ mixes
 mixing
 mixture
 mixtures
-moan
 moaned
 moat
 mob
@@ -10907,7 +10911,6 @@ outfielder
 outfit
 outfits
 outgoing
-outgrowth
 outlaw
 outlawed
 outlaws
@@ -11663,6 +11666,7 @@ playing
 playlist
 playoff
 playoffs
+plays
 playwright
 playwrights
 plaza
@@ -12408,7 +12412,6 @@ provincial
 provision
 provisional
 provisions
-proviso
 provocation
 provocative
 provoke
@@ -12557,7 +12560,6 @@ quantities
 quantity
 quantum
 quarantine
-quark
 quarrel
 quarrels
 quarries
@@ -12956,7 +12958,6 @@ refuses
 refusing
 refutation
 refute
-refuted
 regain
 regained
 regaining
@@ -13017,7 +13018,6 @@ reigned
 reigning
 reigns
 reimbursement
-reincarnation
 reindeer
 reinforce
 reinforced
@@ -13245,7 +13245,6 @@ reproductive
 reptiles
 republic
 republican
-republicanism
 republicans
 republics
 republished
@@ -13898,7 +13897,6 @@ screened
 screening
 screenings
 screenplay
-screenplays
 screens
 screenwriter
 screw
@@ -13927,6 +13925,8 @@ sealed
 sealing
 seals
 seam
+seaman
+seamen
 seams
 seaplane
 seaport
@@ -16125,6 +16125,7 @@ torso
 tort
 tortoise
 torts
+torture
 tortured
 toss
 tossed
@@ -16481,7 +16482,6 @@ twofold
 tycoon
 typeface
 typewriter
-typhoid
 typhoon
 typically
 tyranny
