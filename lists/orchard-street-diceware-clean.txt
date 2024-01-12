@@ -1766,7 +1766,6 @@ dangerous
 dangers
 dare
 dared
-daring
 dark
 darker
 darkness
@@ -2493,6 +2492,7 @@ errors
 escape
 escaped
 escapes
+escort
 especially
 essay
 essays

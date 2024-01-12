@@ -2622,6 +2622,7 @@ errors
 escape
 escaped
 escapes
+escort
 escorted
 especially
 essay
@@ -3054,7 +3055,6 @@ fluids
 flute
 flux
 flying
-foam
 focal
 focus
 focused

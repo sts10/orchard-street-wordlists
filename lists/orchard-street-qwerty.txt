@@ -47,7 +47,6 @@ awe
 axe
 axes
 aye
-baby
 bad
 bag
 bags
@@ -326,6 +325,7 @@ envy
 era
 eras
 erase
+erect
 error
 essay
 ether

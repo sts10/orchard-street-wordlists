@@ -107,7 +107,6 @@ bird
 bit
 bits
 blew
-boat
 bog
 boil
 bold
@@ -554,6 +553,7 @@ icy
 idea
 ideas
 idiom
+idiot
 idle
 idol
 imam
@@ -971,7 +971,6 @@ said
 sail
 saint
 sake
-sale
 same
 sand
 sang
@@ -1112,6 +1111,7 @@ studio
 stuff
 stump
 stunt
+stupid
 sub
 such
 sue
