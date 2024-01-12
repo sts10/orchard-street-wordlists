@@ -1902,6 +1902,7 @@ bounced
 bouncing
 boundaries
 boundary
+bounded
 bounding
 boundless
 bounty
@@ -4073,6 +4074,7 @@ customize
 customized
 customs
 cutoff
+cuts
 cutter
 cutting
 cuttings
@@ -4299,7 +4301,6 @@ deflection
 deforestation
 deformation
 deformed
-deformities
 deformity
 defunct
 defy
@@ -5405,6 +5406,7 @@ elders
 eldest
 electoral
 electorate
+electors
 electric
 electrical
 electrically
@@ -5786,6 +5788,7 @@ eradicate
 eradication
 erase
 erased
+erect
 erected
 eroded
 erosion
@@ -6935,6 +6938,7 @@ funeral
 funerals
 fungal
 fungi
+fungus
 funk
 funky
 funnel
@@ -7888,7 +7892,6 @@ hub
 hubs
 huddled
 hue
-hues
 hug
 huge
 hugely
@@ -9683,7 +9686,6 @@ mapping
 maps
 marathon
 marble
-marbles
 march
 marched
 marches
@@ -11088,7 +11090,6 @@ paperwork
 papyrus
 par
 parables
-parabolic
 parachute
 parade
 parades
@@ -11731,7 +11732,6 @@ poetical
 poetry
 poets
 poignant
-pointedly
 pointer
 pointers
 pointless
@@ -12754,7 +12754,6 @@ rebels
 rebirth
 reborn
 rebound
-rebounded
 rebounds
 rebuild
 rebuilding
@@ -14018,7 +14017,6 @@ selective
 selectively
 selectivity
 selector
-selectors
 selects
 selenium
 selfish
@@ -14274,7 +14272,6 @@ shortage
 shortages
 shortcomings
 shortcut
-shortcuts
 shorten
 shortened
 shortening
@@ -14606,6 +14603,7 @@ snapshot
 snatched
 sneak
 sniffed
+sniper
 snooker
 snorted
 snout
@@ -15280,6 +15278,7 @@ stunned
 stunning
 stunt
 stunts
+stupid
 stupidity
 sturdy
 sturgeon
@@ -15393,7 +15392,6 @@ sudden
 suddenly
 suffer
 suffered
-sufferers
 suffering
 sufferings
 suffers
@@ -16802,6 +16800,7 @@ urged
 urgently
 urges
 urging
+urine
 usability
 usable
 usages
@@ -16814,6 +16813,7 @@ usher
 ushered
 utensils
 uterine
+uterus
 utilitarian
 utilitarianism
 utilities
