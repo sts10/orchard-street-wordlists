@@ -148,13 +148,13 @@ For more information, see [this GitHub repo](https://github.com/sts10/remote-wor
 
 Check [our FAQ](faq.markdown) for answers to frequently asked questions.
 
-## Word sources and licensing
+## Licensing
 
-The words contained in these word lists are taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) (2012 data) and Wikipedia, via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/), taken in June 2023.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+### Sources of words and other legal notes
+The words contained in these word lists are primarily taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) (2012 data) and Wikipedia, via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/), taken in June 2023.
 
 This project has no association with either Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, nor Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
 
-At that time that words were pulled from Wikipedia, [Wikipedia text was licensed under](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#7._Licensing_of_Content) [the Creative Commons Attribution-ShareAlike 4.0 International License ("CC BY-SA 4.0")](https://creativecommons.org/licenses/by-sa/4.0/), and thus I am using that license for this project. <!-- (Note that technically this data is from dumps.wikimedia.org, which [s licensing notes of its own](https://dumps.wikimedia.org/legal.html), but defers to other legal documents when applicable, so I'm choosing to license this project under CC BY-SA 4.0.) -->
-
-<!-- ### Licensing -->
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+At that time that words were pulled from Wikipedia, [Wikipedia text was licensed under](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#7._Licensing_of_Content) [the Creative Commons Attribution-ShareAlike 4.0 International License ("CC BY-SA 4.0")](https://creativecommons.org/licenses/by-sa/4.0/), and thus I am using that license for this project. <!-- (Note that technically this data is from dumps.wikimedia.org, which [has licensing notes of its own](https://dumps.wikimedia.org/legal.html), but defers to other legal documents when applicable, so I'm choosing to license this project under CC BY-SA 4.0.) -->
