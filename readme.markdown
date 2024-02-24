@@ -5,9 +5,9 @@ Fresh wordlists for all your passphrase-creation needs. Use these wordlists to c
 * Made up of common words found in (English) Wikipedia and Google Books
 * Uniquely decodable, and thus safe to combine words in passphrases without a delimiter
 * Free of profane words, abbreviations, and British spellings
-* Available in a variety lengths for different use-cases
+* Available in a variety of lengths for different use-cases
 
-NOTE: These lists are edited frequently. If you want a static, unchanging copy of any of the word lists, feel free to download the lists as they are currently, download the latest tag/release, or fork this repository at any time. See licensing information below.
+NOTE: These lists are occasionally edited. If you want a static, unchanging copy of any of the word lists, feel free to download the lists as they are currently, download the latest tag/release, or fork this repository at any time. See licensing information below.
 
 ## Orchard Street Long List
 
@@ -93,12 +93,11 @@ This list is [an option](https://github.com/strongbox-password-safe/Strongbox/bl
 
 ## Orchard Street Short Lists
 
-[Orchard Street Alpha](lists/orchard-street-alpha.txt) and [Orchard Street QWERTY](lists/orchard-street-qwerty.txt) lists both have 1,296 words and are optimized for inputting resulting passphrases into devices like smart TVs. Each word gives a passphrase an additional 10.34 bits of entropy.
+[Orchard Street Alpha](lists/orchard-street-alpha.txt) and [Orchard Street QWERTY](lists/orchard-street-qwerty.txt) lists both have 1,296 words and are optimized for inputting resulting passphrases into devices like smart TVs or video game consoles. Each word gives a passphrase an additional 10.34 bits of entropy.
 
 The difference between these two lists are which **keyboard layout** they are optimized for. Use the Alpha list if your device's keyboard is laid out alphabetically; use the QWERTY list if it is closer to [the QWERTY layout](https://en.wikipedia.org/wiki/QWERTY).
 
 ### Orchard Street Alpha list
-
 ```text
 List length               : 1296 words
 Mean word length          : 4.12 characters
@@ -155,6 +154,6 @@ Check [our FAQ](faq.markdown) for answers to frequently asked questions.
 ### Sources of words and other legal notes
 The words contained in these word lists are primarily taken from two sources: [Google Books Ngram data](https://storage.googleapis.com/books/ngrams/books/datasetsv3.html) (2012 data) and Wikipedia, via [a Wikipedia word frequency project](https://github.com/IlyaSemenov/wikipedia-word-frequency/), taken in June 2023.
 
-This project has no association with either Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. Neither Google, nor Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
+This project has no association with Google, Wikipedia, or the creators of the Wikipedia frequency project cited above. To my knowledge, Google, Wikipedia, nor the creators of the Wikipedia word frequency project cited above endorses this project.
 
 At that time that words were pulled from Wikipedia, [Wikipedia text was licensed under](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use#7._Licensing_of_Content) [the Creative Commons Attribution-ShareAlike 4.0 International License ("CC BY-SA 4.0")](https://creativecommons.org/licenses/by-sa/4.0/), and thus I am using that license for this project. <!-- (Note that technically this data is from dumps.wikimedia.org, which [has licensing notes of its own](https://dumps.wikimedia.org/legal.html), but defers to other legal documents when applicable, so I'm choosing to license this project under CC BY-SA 4.0.) -->
