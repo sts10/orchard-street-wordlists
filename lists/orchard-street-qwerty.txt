@@ -51,6 +51,7 @@ baby
 bad
 bag
 bags
+ball
 ban
 bar
 bare
@@ -796,7 +797,6 @@ peered
 peers
 peg
 pet
-peter
 petty
 pie
 piece

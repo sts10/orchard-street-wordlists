@@ -11460,7 +11460,6 @@ pesticide
 pesticides
 pests
 petals
-peters
 petitioned
 petitioner
 petitioners
@@ -12561,6 +12560,7 @@ quantities
 quantity
 quantum
 quarantine
+quark
 quarrel
 quarrels
 quarries

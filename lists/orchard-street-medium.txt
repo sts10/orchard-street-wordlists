@@ -3055,6 +3055,7 @@ fluids
 flute
 flux
 flying
+foam
 focal
 focus
 focused
@@ -5260,8 +5261,6 @@ persuasive
 pertaining
 pertinent
 pervasive
-peter
-peters
 petroleum
 petty
 phantom
@@ -5949,6 +5948,7 @@ referee
 referenced
 references
 referendum
+referral
 referring
 refers
 refined
