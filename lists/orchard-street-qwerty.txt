@@ -424,6 +424,7 @@ full
 fully
 fun
 fund
+funds
 funk
 funny
 fur
@@ -1024,7 +1025,6 @@ silk
 sin
 sip
 sir
-sire
 sit
 site
 ski
