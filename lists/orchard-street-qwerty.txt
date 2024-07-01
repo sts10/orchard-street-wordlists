@@ -185,7 +185,6 @@ cite
 city
 clip
 coil
-comm
 con
 cook
 cool
@@ -1142,6 +1141,7 @@ ton
 tong
 too
 took
+tools
 tooth
 tore
 tort

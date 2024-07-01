@@ -218,7 +218,6 @@ coma
 comb
 come
 comic
-comm
 common
 cone
 cook
@@ -971,6 +970,7 @@ said
 sail
 saint
 sake
+sale
 same
 sand
 sang

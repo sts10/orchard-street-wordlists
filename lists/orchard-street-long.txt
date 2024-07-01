@@ -3052,7 +3052,6 @@ comforting
 comforts
 comic
 comics
-comm
 comma
 command
 commandant
@@ -7398,7 +7397,6 @@ growing
 growled
 grown
 grows
-growth
 grunted
 guarantee
 guaranteed
@@ -8211,7 +8209,6 @@ incapacity
 incarcerated
 incarceration
 incarnate
-incarnation
 incarnations
 incense
 incentive
@@ -8461,6 +8458,7 @@ initiative
 initiatives
 inject
 injected
+injecting
 injection
 injections
 injunction
@@ -10912,6 +10910,7 @@ outfielder
 outfit
 outfits
 outgoing
+outgrowth
 outlaw
 outlawed
 outlaws
@@ -13019,6 +13018,7 @@ reigned
 reigning
 reigns
 reimbursement
+reincarnation
 reindeer
 reinforce
 reinforced
