@@ -5520,6 +5520,7 @@ radial
 radiation
 radical
 radically
+radicals
 radio
 radius
 raiders
@@ -7411,7 +7412,6 @@ utmost
 utterly
 vacancy
 vacant
-vacated
 vacation
 vaccine
 vacuum

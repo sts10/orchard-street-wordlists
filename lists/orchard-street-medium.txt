@@ -5820,6 +5820,7 @@ radial
 radiation
 radical
 radically
+radicals
 radio
 radius
 raiders
@@ -5948,7 +5949,6 @@ referee
 referenced
 references
 referendum
-referral
 referring
 refers
 refined
