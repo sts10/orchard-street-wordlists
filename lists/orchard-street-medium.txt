@@ -1759,6 +1759,7 @@ criterion
 critic
 critical
 critically
+criticism
 criticisms
 criticized
 critics
@@ -3055,7 +3056,6 @@ fluids
 flute
 flux
 flying
-foam
 focal
 focus
 focused
@@ -7891,7 +7891,6 @@ village
 villagers
 villages
 villain
-vintage
 vinyl
 violate
 violated
@@ -8038,6 +8037,7 @@ weighted
 weights
 welcome
 welcomed
+welfare
 wells
 welsh
 western

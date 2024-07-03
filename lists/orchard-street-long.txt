@@ -3441,7 +3441,6 @@ conscription
 consecrated
 consecration
 consecutive
-consecutively
 consensual
 consensus
 consent
@@ -3936,6 +3935,7 @@ criterion
 critic
 critical
 critically
+criticism
 criticisms
 criticize
 criticized
@@ -5752,6 +5752,7 @@ epidemiology
 epidermal
 epidermis
 epilepsy
+epilogue
 episcopal
 episode
 episodes
@@ -8191,7 +8192,6 @@ inaccessible
 inaccurate
 inaction
 inactive
-inactivity
 inadequacies
 inadequacy
 inadequate
@@ -9715,6 +9715,7 @@ marketed
 marketers
 marketing
 marketplace
+marking
 markings
 markup
 marlins
@@ -12559,7 +12560,6 @@ quantities
 quantity
 quantum
 quarantine
-quark
 quarrel
 quarrels
 quarries
@@ -13104,7 +13104,6 @@ remark
 remarkable
 remarkably
 remarked
-remarking
 remarks
 remarried
 rematch
@@ -17270,6 +17269,7 @@ welcoming
 weld
 welded
 welding
+welfare
 wellington
 welsh
 welt

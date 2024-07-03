@@ -1677,6 +1677,7 @@ criterion
 critic
 critical
 critically
+criticism
 criticisms
 criticized
 critics
@@ -1766,7 +1767,6 @@ dangerous
 dangers
 dare
 dared
-daring
 dark
 darker
 darkness
@@ -4623,7 +4623,6 @@ noticed
 noting
 notion
 notorious
-noun
 novel
 novelist
 novels
@@ -7628,6 +7627,7 @@ weighted
 weights
 welcome
 welcomed
+welfare
 wells
 welsh
 western
