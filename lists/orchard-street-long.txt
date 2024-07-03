@@ -169,11 +169,8 @@ acidity
 acids
 acknowledge
 acknowledged
-acknowledgement
 acknowledges
 acknowledging
-acknowledgment
-acknowledgments
 acne
 acorn
 acoustic
@@ -3444,6 +3441,7 @@ conscription
 consecrated
 consecration
 consecutive
+consecutively
 consensual
 consensus
 consent
@@ -8193,6 +8191,7 @@ inaccessible
 inaccurate
 inaction
 inactive
+inactivity
 inadequacies
 inadequacy
 inadequate
@@ -9716,7 +9715,6 @@ marketed
 marketers
 marketing
 marketplace
-marking
 markings
 markup
 marlins
@@ -12561,6 +12559,7 @@ quantities
 quantity
 quantum
 quarantine
+quark
 quarrel
 quarrels
 quarries
@@ -13105,6 +13104,7 @@ remark
 remarkable
 remarkably
 remarked
+remarking
 remarks
 remarried
 rematch
