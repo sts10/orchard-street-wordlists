@@ -3441,6 +3441,7 @@ conscription
 consecrated
 consecration
 consecutive
+consecutively
 consensual
 consensus
 consent
@@ -7669,7 +7670,6 @@ hemp
 henceforth
 henchmen
 hens
-hepatic
 hepatitis
 herald
 heralded
