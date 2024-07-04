@@ -3541,7 +3541,6 @@ helps
 hemisphere
 hemorrhage
 hepatitis
-herald
 herb
 herbs
 herd
@@ -7891,6 +7890,7 @@ village
 villagers
 villages
 villain
+vintage
 vinyl
 violate
 violated
