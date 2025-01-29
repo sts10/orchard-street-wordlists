@@ -64,7 +64,7 @@ This list is [used](https://github.com/buttercup/buttercup-generator/pull/18) by
 
 ## Orchard Street Diceware List
 
-The [Orchard Street Diceware List](lists/orchard-street-diceware.txt) is our version of the classic Diceware list. With this list, you can [use dice to create a secure passphrase](https://www.eff.org/dice)). This list's 7,776 words gives a traditional 12.925 bits of entropy per word, same as [the EFF long word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
+The [Orchard Street Diceware List](lists/orchard-street-diceware.txt) is our version of the classic Diceware list. With this list, you can [use dice to create a secure passphrase](https://www.eff.org/dice). This list's 7,776 words gives 12.925 bits of entropy per word, the same as [the EFF long word list](https://www.eff.org/deeplinks/2016/07/new-wordlists-random-passphrases).
 
 This list is also available [without corresponding dice roll numbers prepended](lists/orchard-street-diceware-clean.txt).
 
