@@ -107,6 +107,7 @@ bird
 bit
 bits
 blew
+boat
 bog
 boil
 bold
@@ -499,7 +500,6 @@ ham
 hand
 hang
 hangs
-hank
 hasty
 hats
 hay
