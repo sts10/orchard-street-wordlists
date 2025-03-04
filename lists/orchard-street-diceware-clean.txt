@@ -744,7 +744,6 @@ bird
 birds
 birth
 birthday
-birthplace
 births
 bishops
 bite
@@ -1622,6 +1621,7 @@ couple
 coupled
 couples
 coupling
+course
 courses
 court
 courtesy
@@ -1767,6 +1767,7 @@ dangerous
 dangers
 dare
 dared
+daring
 dark
 darker
 darkness
@@ -5099,7 +5100,6 @@ playwright
 plaza
 plea
 pleaded
-please
 pleased
 pleasure
 pleasures
@@ -5512,7 +5512,6 @@ quote
 quoted
 quotes
 rabbit
-racecourse
 racism
 radar
 radial
@@ -7411,6 +7410,7 @@ utmost
 utterly
 vacancy
 vacant
+vacated
 vacation
 vaccine
 vacuum
