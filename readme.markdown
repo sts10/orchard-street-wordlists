@@ -1,6 +1,6 @@
 # Orchard Street Wordlists
 
-Fresh wordlists for all your passphrase-creation needs. Use these wordlists to create strong, secure passphrases, either [with dice](https://www.eff.org/dice) or a password manager/generator.
+Fresh wordlists for all your passphrase-creation needs. Use these wordlists to create strong, secure passphrases, either [with dice](https://www.eff.org/dice) or a password generator, which are built-in to some password managers.
 
 * Made up of common words found in (English) Wikipedia and Google Books
 * Uniquely decodable, and thus safe to combine words in passphrases without a delimiter
