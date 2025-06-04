@@ -141,7 +141,7 @@ sent kiss open fife reader will
 mute mecca drugs rent turn den
 ```
 
-For more information, see [this GitHub repo](https://github.com/sts10/remote-words) and/or [this blog post](https://sts10.github.io/2022/10/24/a-good-netflix-password.html).
+For more information on these short lists and their specific use-cases, see [this GitHub repo](https://github.com/sts10/remote-words) and/or [this blog post](https://sts10.github.io/2022/10/24/a-good-netflix-password.html).
 
 ## FAQ
 
